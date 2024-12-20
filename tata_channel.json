@@ -1,879 +1,3510 @@
 {
-    "683": "Star Sports First",
-    "574": "Zee Cinema HD +1",
-    "657": "Tata Play Telugu Cinema",
-    "840": "Shirdi Sai Baba",
-    "842": "Somnath Temple",
-    "1301": "Tata Play 4K",
-    "121": "Tata Play Fitness",
-    "618": "Tata Play Beauty",
-    "641": "Tata Play Cooking",
-    "959": "Tata Play Romance",
-    "8": "STAR Plus HD",
-    "508": "STAR PLUS HD +1",
-    "550": "STAR Plus",
-    "1390": "Tata Play Superhits Serials",
-    "244": "Star Bharat HD",
-    "86": "Star Bharat",
-    "15": "SET HD",
-    "556": "SET",
-    "48": "SONY SAB HD",
-    "559": "SONY SAB",
-    "40": "&tv HD",
-    "578": "&TV",
-    "63": "Zee TV HD",
-    "584": "Zee TV HD +1",
-    "557": "Zee TV",
-    "811": "Tata Play Adbhut Kahaniyan",
-    "52": "Colors HD",
-    "513": "Colors HD +1",
-    "543": "Colors",
-    "95": "Tata Play Javed Akhtar",
-    "943": "Tata Play Videshi Kahaniyan",
-    "964": "Tata Play Classic TV",
-    "142": "UTV Bindass",
-    "986": "Tata Play Zindagi",
-    "1276": "Investigation Discovery HD",
-    "633": "Investigation Discovery",
-    "551": "STAR Utsav",
-    "523": "Zee Anmol",
-    "438": "Colors Rishtey",
-    "554": "Sony Pal",
-    "54": "The Q",
-    "297": "Big Magic",
-    "51": "Dangal",
-    "180": "Anjan TV",
-    "818": "Shemaroo TV",
-    "888": "Ishara",
-    "1045": "Shemaroo UMANG",
-    "1184": "NAZARA",
-    "965": "Manoranjan Grand",
-    "1370": "Sun Neo HD",
-    "1369": "Sun Neo",
-    "1218": "DD National HD",
-    "191": "DD National",
-    "326": "DD Kisan",
-    "808": "Tata Play Hits",
-    "502": "Zee Cafe HD",
-    "602": "Zee Cafe",
-    "187": "Colors Infinity HD",
-    "307": "Comedy Central HD",
-    "306": "Comedy Central",
-    "544": "Colors Infinity",
-    "319": "Tata Play Bollywood Premiere HD",
-    "486": "Tata Play Bollywood Premiere",
-    "789": "Tata Play Hollywood Local",
-    "632": "Star GOLD HD",
-    "1130": "Tata Play Bollywood Masala",
-    "80": "SONY MAX HD",
-    "132": "SONY MAX",
-    "1072": "Star Gold 2 HD",
-    "163": "Star Gold 2",
-    "741": "Tata Play Classic Cinema",
-    "503": "Zee Cinema HD",
-    "123": "Zee Cinema",
-    "493": "Star Gold Romance",
-    "494": "Star Gold Thrills",
-    "175": "Zee Bollywood",
-    "727": "Zee Classic",
-    "666": "Tata Play Theatre HD",
-    "267": "&pictures HD",
-    "148": "&pictures",
-    "1183": "&Xplor HD",
-    "677": "Tata Play ShortsTV",
-    "61": "Colors Cineplex HD",
-    "53": "Colors Cineplex",
-    "730": "B4U Kadak",
-    "100": "Action Cinema",
-    "1003": "Tata Play South Talkies",
-    "56": "Sony Wah",
-    "7": "B4U Movies",
-    "120": "SONY MAX 2",
-    "276": "WoW Cinema One",
-    "194": "Dangal 2",
-    "296": "BFLIX",
-    "470": "STAR Utsav Movies",
-    "64": "Zee Anmol Cinema",
-    "1025": "Colors Cineplex Superhits",
-    "1000": "Colors Cineplex Bollywood",
-    "1321": "ALL Time MOVIES",
-    "823": "Goldmines",
-    "731": "Manoranjan TV",
-    "12": "Zee Anmol Cinema 2",
-    "173": "Movies Now",
-    "234": "MNX",
-    "1269": "Chumbak TV",
-    "1449": "Manoranjan Prime",
-    "273": "STAR Movies",
-    "32": "SONY PIX HD",
-    "558": "SONY PIX",
-    "506": "&Flix HD",
-    "592": "&flix",
-    "1069": "Star Movies Select",
-    "562": "Movies Now HD",
-    "210": "MN+ HD",
-    "599": "MNX HD",
-    "174": "Romedy Now",
-    "530": "&Prive HD",
-    "1191": "DD Sports HD",
-    "223": "DD Sports",
-    "78": "Star Sports 1 HD",
-    "235": "Star Sports 2 HD",
-    "24": "Star Sports 1 Hindi HD",
-    "246": "Star Sports Select 1 HD",
-    "141": "Star Sports Select 1",
-    "463": "Star Sports Select 2 HD",
-    "81": "SONY SPORTS TEN 1 HD",
-    "150": "SONY SPORTS TEN 1",
-    "462": "SONY SPORTS TEN 2 HD",
-    "170": "SONY SPORTS TEN 2",
-    "464": "SONY SPORTS TEN 3 HD",
-    "171": "SONY SPORTS TEN 3",
-    "35": "SONY SPORTS TEN 5 HD",
-    "610": "SONY SPORTS TEN 5",
-    "1033": "Sports 18 - 1 HD",
-    "980": "Sports 18 - 1",
-    "1186": "Sports 18 2",
-    "1187": "Sports 18 3",
-    "812": "Eurosport HD",
-    "693": "Eurosport",
-    "691": "DD News HD",
-    "322": "DD News",
-    "177": "ABP News",
-    "783": "Tata Play Seniors",
-    "179": "NDTV India",
-    "689": "Aaj Tak HD",
-    "153": "Aaj Tak",
-    "259": "Zee News",
-    "872": "Tata Play Astro Duniya",
-    "104": "India TV",
-    "1056": "Tata Play Har Ghar Startup",
-    "209": "News 24",
-    "929": "Tata Play JEE Prep",
-    "928": "Tata Play NEET Prep",
-    "106": "News18 India",
-    "514": "Zee Bharat",
-    "696": "R Bharat",
-    "183": "India News",
-    "36": "News Nation",
-    "706": "TV9 Bharatvarsh",
-    "485": "TOTAL TV",
-    "932": "Times Now Navbharat HD",
-    "966": "Times Now Navbharat",
-    "831": "News India 24x7",
-    "1010": "Bharat 24",
-    "1407": "India TV Speed News HD",
-    "1031": "Surya Samachar",
-    "475": "Sudarshan News",
-    "1051": "Bharat Express",
-    "1084": "India Daily Live",
-    "1395": "Live Times",
-    "1442": "TV 100",
-    "286": "APN News",
-    "950": "ET Now Swadesh",
-    "685": "India Voice",
-    "415": "News 11 Bharat",
-    "414": "News 1 India",
-    "344": "Hindi Khabar",
-    "291": "Bharat Samachar",
-    "384": "Khabarain Abhi Tak",
-    "441": "Samay",
-    "848": "Network 10",
-    "701": "Jantantra TV",
-    "988": "Har Khabar",
-    "1274": "Swadesh News",
-    "260": "Zee Business",
-    "278": "Good News Today",
-    "204": "CNBC Awaaz",
-    "1368": "Sansad TV 1 HD",
-    "1032": "Sansad TV 2 HD",
-    "213": "Sansad TV 1",
-    "212": "Sansad TV 2",
-    "208": "NDTV 24x7",
-    "547": "Times Now World",
-    "90": "TIMES NOW",
-    "1": "INDIA TODAY",
-    "206": "CNN News18.",
-    "189": "NewsX",
-    "591": "Mirror Now",
-    "255": "WION",
-    "72": "REPUBLIC TV",
-    "1458": "News 9",
-    "1219": "DD India HD",
-    "304": "CNBC TV18",
-    "324": "DD India",
-    "93": "NDTV Profit Prime",
-    "168": "CNBC TV18 Prime HD",
-    "88": "ET NOW",
-    "1136": "Bloomberg Television",
-    "243": "CNN International",
-    "188": "BBC World News",
-    "190": "Al Jazeera",
-    "157": "Channel News Asia",
-    "131": "France 24",
-    "65": "TV5 Monde Asie",
-    "60": "DW",
-    "98": "Russia Today",
-    "976": "NHK World Japan",
-    "345": "Hungama",
-    "587": "Super Hungama",
-    "736": "Tata Play Dance Studio.",
-    "1066": "Disney Channel HD",
-    "114": "Disney",
-    "71": "Tata Play English in Hindi",
-    "433": "Nick HD+",
-    "138": "Nick",
-    "626": "Tata Play Fun Learn Preschool",
-    "627": "Tata Play Fun Learn Junior",
-    "681": "Cartoon Network HD+",
-    "238": "Cartoon Network",
-    "239": "Pogo",
-    "119": "Discovery Kids",
-    "127": "Sonic",
-    "45": "SONY YAY!",
-    "994": "Tata Play Toons+",
-    "867": "Gubbare",
-    "1340": "ETV Bal Bharat HD",
-    "905": "ETV Bal Bharat",
-    "1363": "Tata Play Anime Local",
-    "118": "Nick Jr",
-    "144": "Disney Junior",
-    "816": "CBeeBies",
-    "302": "Chutti TV",
-    "561": "Chintu TV",
-    "82": "Kochu TV",
-    "1164": "Unique TV",
-    "111": "Tata Play Smart Manager",
-    "167": "Tata Play Vedic Maths",
-    "605": "National Geographic HD",
-    "137": "National Geographic",
-    "413": "Nat Geo Wild HD",
-    "184": "Nat Geo Wild",
-    "341": "Discovery HD World",
-    "219": "Discovery Channel",
-    "287": "Animal Planet HD World",
-    "130": "Animal Planet",
-    "113": "Discovery Science",
-    "616": "History TV18 HD",
-    "172": "History TV18",
-    "460": "SONY BBC Earth HD",
-    "158": "SONY BBC Earth",
-    "126": "EPIC",
-    "367": "Star Life HD",
-    "185": "Star Life",
-    "646": "DD Gyan Darshan",
-    "480": "TLC HD",
-    "135": "TLC",
-    "136": "GOOD TiMES",
-    "228": "Discovery Turbo",
-    "484": "Travelxp HD",
-    "55": "Travelxp",
-    "117": "Food Food",
-    "382": "Zee Zest HD",
-    "504": "Zee Zest",
-    "1030": "Foodxp",
-    "227": "Fashion TV",
-    "735": "Tata Play Ibaadat",
-    "406": "MTV HD",
-    "103": "MTV",
-    "139": "9XM",
-    "96": "Zoom",
-    "224": "E24",
-    "737": "Tata Play Music",
-    "405": "MTV Beats HD",
-    "236": "MTV Beats",
-    "9": "B4U Music",
-    "17": "Mastiii",
-    "517": "Zing",
-    "39": "9X Jalwa",
-    "733": "Showbox",
-    "539": "VH1 HD",
-    "1330": "Raj Pariwar",
-    "265": "Disney International HD",
-    "742": "Tata Play Aradhana",
-    "38": "Aastha",
-    "43": "Sanskar",
-    "446": "Paras Gold One",
-    "397": "MH One Shraddha",
-    "447": "Sadhna TV",
-    "385": "Sharnam TV",
-    "420": "Peace of Mind",
-    "373": "Jinvani Channel",
-    "288": "Dharma Sandesh",
-    "594": "Ishwar TV",
-    "456": "Satsang TV",
-    "458": "Shubh TV",
-    "1372": "Bhaktisagar",
-    "283": "Aastha Bhajan",
-    "500": "Vedic",
-    "728": "Subharti TV",
-    "775": "DIVYA",
-    "935": "Awakening",
-    "911": "Santwani",
-    "969": "Aadinath TV",
-    "802": "Studio One +",
-    "837": "Hare Krsna",
-    "790": "Ek Onkar",
-    "970": "MH One Dil Se",
-    "814": "Zee Biskope",
-    "830": "Filamchi Bhojpuri",
-    "181": "Bhojpuri Cinema",
-    "431": "Oscar Movies Bhojpuri.",
-    "729": "B4U Bhojpuri",
-    "899": "Pasand",
-    "1165": "Raapchik",
-    "838": "Kashish News",
-    "79": "News18 Uttar Pradesh Uttarakhand",
-    "637": "Zee Uttar Pradesh Uttarakhand",
-    "166": "News18 Bihar Jharkhand",
-    "20": "Zee Bihar Jharkhand",
-    "30": "India News UP UK",
-    "613": "News State UP Uttarakhand",
-    "827": "Sadhna Plus News",
-    "973": "Sahara Samay UP-UKD",
-    "1267": "HNN News",
-    "1344": "Naxatra News",
-    "1213": "DD Uttarakhand",
-    "1188": "DD Jharkhand",
-    "316": "DD Bharati",
-    "339": "DD Uttar Pradesh",
-    "317": "DD Bihar",
-    "203": "News18 Madhya Pradesh Chhattisgarh",
-    "512": "Zee Madhya Pradesh Chattisgarh",
-    "27": "IBC 24",
-    "652": "Bansal News",
-    "698": "INH 24X7",
-    "222": "India News MP CG",
-    "643": "News State MP CG",
-    "577": "Swaraj Express SMBC",
-    "829": "Sadhna News MP CG",
-    "902": "News 24 Madhyapradesh Chattisgarh",
-    "937": "Anaadi TV",
-    "1009": "TV27 News",
-    "1053": "Asian News",
-    "1074": "TV 24",
-    "1159": "NDTV MPCG",
-    "1315": "Vistaar News",
-    "1353": "DA News Plus",
-    "1376": "BS TV",
-    "1400": "Sadhna Prime News",
-    "1216": "DD Chhattisgarh",
-    "330": "DD Madhya Pradesh",
-    "205": "News18 Rajasthan",
-    "583": "Zee Rajasthan News",
-    "650": "First India Rajasthan",
-    "14": "India News Rajasthan",
-    "870": "Jan TV",
-    "1075": "Sach Bedhadak",
-    "1152": "NDTV Rajasthan",
-    "332": "DD Rajasthan",
-    "354": "News18 Jammu Kashmir Ladakh Himachal Haryana",
-    "518": "Salaam TV",
-    "161": "Channel WIN",
-    "365": "Gulistan News",
-    "338": "DD Urdu",
-    "308": "Colors Marathi HD",
-    "134": "Colors Marathi",
-    "501": "Zee Marathi HD",
-    "251": "Zee Marathi",
-    "622": "Tata Play Marathi Cinema",
-    "469": "Star Pravah HD",
-    "466": "STAR Pravah",
-    "248": "Zee YUVA",
-    "658": "Sony Marathi",
-    "1444": "Tata Play Marathi Classics",
-    "1221": "Sun Marathi HD",
-    "955": "Sun Marathi",
-    "515": "Zee Talkies HD",
-    "249": "Zee Talkies",
-    "1175": "Star Pravah Pictures HD",
-    "985": "Pravah Picture",
-    "192": "Fakt Marathi",
-    "800": "Shemaroo MarathiBana",
-    "999": "Tata Play Toons+",
-    "155": "ABP Majha",
-    "140": "News18 Lokmat",
-    "261": "Zee 24 Taas",
-    "546": "Saam TV",
-    "233": "Jai Maharashtra",
-    "97": "TV9 Marathi",
-    "826": "Lokshahi Marathi",
-    "1102": "Pudhari News",
-    "1343": "NDTV MARATHI",
-    "336": "DD Sahyadri",
-    "217": "Sangeet Marathi",
-    "305": "Colors Bangla HD",
-    "26": "Colors Bangla",
-    "614": "Tata Play Bangla Cinema",
-    "522": "Zee Bangla HD",
-    "253": "Zee Bangla",
-    "468": "Star Jalsha HD",
-    "465": "STAR Jalsha",
-    "34": "SONY AATH",
-    "1222": "Sun Bangla HD",
-    "697": "Sun Bangla",
-    "995": "Tata Play Toons+",
-    "129": "Aakaash Aath",
-    "3": "Ruposhi Bangla",
-    "788": "Enterr10 Bangla",
-    "537": "Jalsha Movies HD",
-    "572": "Jalsha Movies",
-    "254": "Zee Bangla Cinema",
-    "896": "Colors Bangla Cinema",
-    "379": "Khushboo Bangla",
-    "1132": "Rongeen TV",
-    "102": "ABP Ananda",
-    "258": "Zee 24 Ghanta",
-    "381": "Kolkata TV",
-    "23": "News18 Bangla",
-    "873": "TV9 Bangla",
-    "890": "Republic Bangla",
-    "207": "News Time Bangla",
-    "311": "CTVN AKD Plus",
-    "648": "Calcutta News",
-    "314": "DD Bangla",
-    "215": "Sangeet Bangla",
-    "635": "Zee Telugu HD",
-    "250": "Zee Telugu",
-    "355": "Gemini TV HD",
-    "195": "Gemini TV",
-    "956": "STAR Maa HD",
-    "516": "STAR Maa HD",
-    "538": "STAR Maa",
-    "359": "ETV HD",
-    "145": "ETV Telugu",
-    "361": "Gemini Life",
-    "1342": "ETV Plus HD",
-    "352": "ETV Plus",
-    "560": "STAR Movies HD",
-    "996": "Tata Play Toons+",
-    "590": "Telugu Naaptol",
-    "585": "Vissa TV",
-    "645": "Tata Play English in Telugu",
-    "1135": "Vanitha",
-    "1389": "Mahaa Max",
-    "362": "Gemini Movies HD",
-    "162": "Gemini Movies",
-    "387": "Star Maa Movies HD",
-    "957": "Star Maa Movies HD",
-    "277": "Star Maa Movies",
-    "954": "Star Maa Gold",
-    "388": "Star Maa Gold",
-    "1168": "Tata Play Hollywood Local Telugu",
-    "636": "Zee Cinemalu HD",
-    "252": "Zee Cinemalu",
-    "1341": "ETV Cinema HD",
-    "128": "ETV Cinema",
-    "1073": "Tata Play Telugu Classics",
-    "360": "Gemini Comedy",
-    "1068": "Star Sports 1 Telugu HD",
-    "688": "Star Sports 1 Telugu",
-    "268": "ETV Life",
-    "358": "ETV Abhiruchi",
-    "511": "Sun Music",
-    "596": "Sakshi TV",
-    "146": "ETV Andhra Pradesh",
-    "320": "TV5 News",
-    "11": "TV9 Telugu",
-    "160": "NTV Telugu",
-    "225": "ABN Andhra Jyothy",
-    "520": "Sun Music HD",
-    "49": "T News",
-    "274": "V6 Telugu",
-    "83": "ETV Telangana",
-    "349": "HM TV",
-    "430": "Raj News Telugu",
-    "266": "10 TV",
-    "1027": "Swatantra TV",
-    "774": "4tv News",
-    "603": "Star Sports Select 2",
-    "600": "STAR Sports 1",
-    "601": "Star Sports 1 Hindi",
-    "1099": "Prime9 Plus",
-    "1100": "BIG TV Telugu",
-    "1151": "MAHAA NEWS",
-    "1194": "BRK News",
-    "1249": "6TV",
-    "1288": "Zee Telugu News",
-    "609": "STAR Sports 2",
-    "337": "DD Saptagiri",
-    "548": "DD Yadagiri",
-    "363": "Gemini Music",
-    "389": "Star Maa Music",
-    "429": "Raj Musix Telugu",
-    "290": "Bhakti TV",
-    "445": "Shubhavaarta TV",
-    "285": "Aradana TV",
-    "351": "Swara Sagar",
-    "630": "Hindu Dharmam",
-    "1318": "Calvary TV",
-    "1378": "Nireekshana TV",
-    "450": "SVBC",
-    "663": "Tata Play Tamil Cinema",
-    "521": "Sun TV HD",
-    "165": "Sun TV",
-    "1260": "Tata Play Tamil Classics",
-    "474": "Sun Life",
-    "496": "Star Vijay HD",
-    "527": "STAR Vijay",
-    "1167": "Tata Play Hollywood Local Tamil",
-    "608": "Zee Tamil HD",
-    "257": "Zee Tamil",
-    "1176": "Vijay Super HD",
-    "275": "Vijay Super",
-    "674": "Colors Tamil HD",
-    "418": "Colors Tamil",
-    "77": "Star Sports 1 Tamil",
-    "284": "Adithya TV",
-    "708": "Jaya TV HD",
-    "200": "Kalaignar TV",
-    "997": "Tata Play Toons+",
-    "439": "Raj TV",
-    "99": "D Tamil",
-    "426": "Raj Digital Plus",
-    "37": "Mega TV",
-    "723": "Tamil Naaptol",
-    "499": "Vasanth TV",
-    "611": "Sirippoli",
-    "272": "Polimer TV",
-    "392": "Makkal TV",
-    "659": "Vendhar TV",
-    "1322": "Thanthi One",
-    "380": "KTV HD",
-    "147": "KTV",
-    "201": "J Movies",
-    "1182": "Zee Thirai HD",
-    "797": "Zee Thirai",
-    "1067": "Star Sports 1 Tamil HD",
-    "914": "SONY SPORTS TEN 4",
-    "444": "Travelxp Tamil",
-    "1192": "Sony Sports Ten 4 HD",
-    "220": "Puthiya Thalaimurai",
-    "524": "Thanthi TV",
-    "198": "Jaya Plus",
-    "509": "Polimer News",
-    "58": "News18 Tamil Nadu",
-    "44": "Seithigal TV",
-    "525": "Raj News Tamil.",
-    "455": "Sathiyam TV",
-    "391": "MalaiMurasu Seithigal",
-    "329": "DD Manipur",
-    "702": "News J",
-    "968": "News Tamil 24x7",
-    "1317": "Tamil Janam",
-    "199": "Jaya Max",
-    "425": "Raj Musix",
-    "906": "Vijay Takkar",
-    "647": "Isaiaruvi",
-    "411": "Murasu TV",
-    "400": "Mega Musiq",
-    "434": "Jothi TV",
-    "1324": "Raj Nagaichuvai",
-    "390": "Madha TV",
-    "282": "Angel TV",
-    "408": "Nambikkai TV",
-    "1459": "Tata Play Deiveegam",
-    "490": "SVBC 2",
-    "334": "DD Tamil",
-    "785": "Tata Play Kannada Cinema",
-    "492": "Udaya TV HD",
-    "76": "Udaya TV",
-    "612": "Colors Kannada HD",
-    "108": "Colors Kannada",
-    "467": "Star Suvarna HD",
-    "579": "Star Suvarna",
-    "675": "Zee Kannada HD",
-    "256": "Zee Kannada",
-    "372": "Jeevan TV",
-    "533": "Colors SUPER",
-    "566": "Kannada Naaptol",
-    "940": "SIRIKANNADA Alltime",
-    "231": "Udaya Movies",
-    "383": "Kushi TV",
-    "491": "Udaya Comedy",
-    "540": "Star Suvarna Plus",
-    "667": "Colors Kannada Cinema",
-    "1181": "Zee Picchar HD",
-    "810": "Zee Picchar",
-    "661": "Public Movies",
-    "396": "Mega 24",
-    "690": "Star Sports 1 Kannada",
-    "152": "TV9 Kannada",
-    "85": "News18 Kannada",
-    "33": "Public TV",
-    "555": "Asianet Suvarna News",
-    "629": "TV5 Kannada",
-    "510": "Raj News Kannada",
-    "342": "R Kannada",
-    "824": "Power TV",
-    "913": "News 1st Kannada",
-    "1287": "Zee Kannada News",
-    "321": "DD Chandana",
-    "442": "Udaya Music",
-    "427": "Raj Musix Kannada",
-    "424": "Public Music",
-    "477": "Sri Sankara TV",
-    "660": "Ayush TV",
-    "971": "SVBC 3",
-    "107": "Colors Gujarati",
-    "772": "Tata Play Gujarati Cinema",
-    "692": "Colors Gujarati Cinema",
-    "489": "TV9 Gujarati",
-    "552": "Gujarat Samachar TV",
-    "586": "Sandesh News",
-    "303": "CNBC Bajaar",
-    "6": "News18 Gujarati",
-    "73": "ABP Asmita",
-    "497": "VTV News",
-    "507": "Zee 24 Kalak",
-    "654": "India News Gujarat",
-    "974": "1st Gujarat",
-    "1286": "News Capital",
-    "323": "DD Girnar",
-    "1097": "Aastha Gujarati",
-    "1350": "Tata Play Lakshya TV",
-    "1349": "Tata Play Kartavya TV",
-    "443": "Sun News",
-    "1351": "Tata Play Kalyan TV",
-    "893": "Tata Play Valam TV",
-    "237": "Tarang TV",
-    "115": "Colors Oriya",
-    "597": "Zee Sarthak",
-    "978": "Sidharth TV",
-    "1174": "Star Kiran HD",
-    "987": "Star Kiran",
-    "50": "Tarang Music",
-    "419": "OTV",
-    "421": "Peppers TV",
-    "1170": "Sidharth GOLD",
-    "376": "Kanak News",
-    "375": "Kalinga TV",
-    "41": "News18 Odia",
-    "28": "Alankar",
-    "448": "News7",
-    "805": "Nandighosha TV",
-    "907": "Argus News",
-    "568": "Prarthana Life",
-    "1026": "Sidharth Bhakti",
-    "1169": "Jay Jagannath.",
-    "333": "DD Odia",
-    "479": "Surya HD",
-    "230": "Surya TV",
-    "868": "Tata Play Malayalam Cinema",
-    "292": "Asianet HD",
-    "289": "Asianet.",
-    "953": "Asianet Plus",
-    "294": "Asianet Plus",
-    "694": "Zee Keralam HD",
-    "684": "Zee Keralam",
-    "10": "Flowers",
-    "395": "Mazhavil Manorama HD",
-    "31": "Mazhavil Manorama",
-    "25": "Kairali TV",
-    "553": "We TV",
-    "178": "Amrita TV",
-    "229": "Surya Movies",
-    "1173": "Asianet Movies HD",
-    "293": "Asianet Movies",
-    "933": "Asianet Movies",
-    "461": "Star Gold Select",
-    "595": "Star Gold Select HD",
-    "436": "Safari TV",
-    "532": "Asianet News",
-    "66": "News18 Kerala",
-    "87": "Manorama News",
-    "394": "Mathrubhumi News",
-    "211": "Kairali News",
-    "370": "Jaihind TV",
-    "576": "Media One",
-    "270": "Janam TV",
-    "378": "Kaumudy TV",
-    "428": "Raj News Malayalam",
-    "799": "Twenty Four",
-    "1124": "Reporter TV",
-    "1313": "SHEKINAH",
-    "1367": "News Malayalam 24x7",
-    "481": "Surya Comedy",
-    "483": "Surya Music",
-    "328": "DD Malayalam",
-    "541": "Raj Musix Malayalam",
-    "377": "Kappa TV",
-    "269": "Goodness",
-    "356": "God TV",
-    "498": "VH1",
-    "457": "Shalom TV",
-    "348": "Harvest TV 24x7",
-    "218": "SVBC Telugu",
-    "1364": "Powervision",
-    "571": "Tata Play Punjab De Rang",
-    "796": "Zee Punjabi",
-    "122": "PTC Punjabi",
-    "399": "MH One",
-    "998": "Tata Play Toons+",
-    "624": "Pitaara Movies",
-    "794": "PTC Punjabi Gold",
-    "580": "Zee Punjab Haryana Himachal Pradesh",
-    "91": "PTC News",
-    "232": "News18 Punjab",
-    "366": "India News Punjab",
-    "13": "India News Haryana",
-    "371": "Janta TV",
-    "401": "MH One News",
-    "787": "ANB NEWS",
-    "793": "Living India News",
-    "972": "Khabar Fast",
-    "262": "Zee Delhi NCR Haryana",
-    "989": "STV Haryana News",
-    "1078": "Daily Post Punjab Haryana Himachal",
-    "1411": "News State Punjab Haryana Himachal",
-    "335": "DD Punjabi",
-    "1217": "DD Himachal",
-    "1212": "DD Haryana",
-    "92": "PTC Chak De",
-    "922": "PTC Music",
-    "193": "Chardikla Time TV",
-    "773": "PTC Simran",
-    "567": "Nepal 1",
-    "101": "Rang",
-    "214": "Rengoni TV",
-    "1047": "SPONDON",
-    "1082": "Tata Play Asomiya Monoronjan",
-    "1352": "Pear TV",
-    "368": "Indradhanu",
-    "47": "Jonack TV",
-    "164": "STAR Gold",
-    "353": "DY 365",
-    "68": "News18 Assam North East",
-    "226": "NEWS LIVE",
-    "221": "Protidin Time",
-    "423": "Prag News",
-    "417": "North East Live",
-    "894": "NKTV PLUS",
-    "898": "Hornbill TV",
-    "977": "ND24-Newsdaily.in",
-    "1076": "NB News",
-    "1115": "Pratham Khabar 24x7",
-    "1268": "NE NEWS",
-    "758": "DD Arunprabha",
-    "331": "DD North East",
-    "325": "DD Kashir",
-    "449": "Ramdhenu",
-    "991": "DD Meghalaya",
-    "1210": "DD Tripura",
-    "1211": "DD Mizoram",
-    "833": "DD Port Blair",
-    "1214": "DD Nagaland",
-    "1215": "DD Goa",
-    "1285": "Sana TV",
-    "581": "STAR GOLD HD +1",
-    "1284": "Sana Plus TV",
-    "1277": "Nav Tej TV",
-    "1281": "Samachar 24 News",
-    "1278": "Prime TV",
-    "849": "Kashi Vishwanath Temple, Varanasi",
-    "930": "Buletin India",
-    "791": "Fateh TV",
-    "912": "Haryana Beats",
-    "807": "In Goa 24x7",
-    "782": "Namma TV",
-    "781": "Prudent",
-    "819": "RDX Goa",
-    "1290": "TVRI World",
-    "593": "STAR Movies Select HD",
-    "865": "Bangla Bhakti",
-    "866": "Tara News",
-    "887": "Garv Gurbani",
-    "883": "Swar Shree",
-    "1379": "Bharat Times News",
-    "910": "C News Bharat",
-    "1380": "News 21",
-    "1371": "BVG",
-    "1254": "National News Live",
-    "1256": "Oye Music",
-    "1257": "Sangam TV",
-    "1255": "Update India",
-    "841": "Mahakaleshwar Temple, Ujjain",
-    "1381": "ANANDHAM TV",
-    "1382": "DHARSAN TV",
-    "1336": "Shresthbharat TV",
-    "931": "Green Chillies TV",
-    "1338": "TV 45 News",
-    "892": "Samara News",
-    "1335": "Shiksha TV",
-    "1332": "AB STAR News",
-    "1334": "KBC News",
-    "1333": "ABC News",
-    "947": "Live Patna Sahib Patna",
-    "1337": "Sristi TV",
-    "949": "Live Sri Naga Sai Mandir Coimbatore",
-    "960": "Atmadarshan",
-    "1339": "TNP News",
-    "962": "ANN News",
-    "1002": "Saileela TV",
-    "1004": "Shri Ganga Aarti, Varanasi",
-    "1008": "Shri ISKCON Girgaon, Mumbai",
-    "1007": "Shri Ashtavinayak Mahaganpati, Ranjangaon",
-    "1006": "Shri Mahalaxmi Temple, Mumbai",
-    "1005": "Shri Babulnaath Temple, Mumbai",
-    "1023": "Daiji World TV",
-    "1018": "Real News Kerala",
-    "1019": "7x Music",
-    "1040": "Jansetu",
-    "1042": "Bless TV",
-    "1043": "Nakshatra Digital",
-    "1044": "Global India",
-    "1060": "Live Punjabi",
-    "1058": "Aaj Ki Khabar",
-    "1059": "Indian News",
-    "1386": "NTV",
-    "1070": "MEDIA 9",
-    "1079": "TTN 24",
-    "1080": "U Bangla TV",
-    "1171": "Shree Ichchhapuran Balaji Mandir",
-    "1196": "Ekamra Bharat Odia",
-    "1197": "Ekamra Nilachakra",
-    "1198": "Ekamra Cynema",
-    "1199": "Ekamra  Music",
-    "1200": "Ekamra Jatra",
-    "1201": "Ekamra Paramatma",
-    "1202": "Ekamra One paschima",
-    "1203": "India 24x7",
-    "1204": "Kalinga Bharat",
-    "1205": "Omm",
-    "1206": "Ekamra Baiscope",
-    "1207": "Ekamra Manoranjan",
-    "1208": "News 8 odia",
-    "1209": "Ekamra snews",
-    "1245": "National Today 24x7",
-    "1247": "35 MM",
-    "1242": "In24 News",
-    "1246": "Vande Bharat News",
-    "1252": "Haryana Buzz",
-    "1253": "Jeewan Bhakti",
-    "1383": "NIJAM TV",
-    "1387": "R TV",
-    "1384": "SURIYAN TV",
-    "1385": "SUBIN TV",
-    "1388": "UTV",
-    "1392": "Sadvidya",
-    "1391": "Bhakthi Siri",
-    "1393": "In24 Live News",
-    "1415": "VST India",
-    "1414": "DKP News",
-    "1413": "HIFF Movies",
-    "1447": "Garvi Gujarat Gujarati",
-    "1446": "Sanmarg TV",
-    "1448": "24Hrs TV",
-    "1445": "Tar TV",
-    "664": "Star Sports 3",
-    "1092": "Test Service 4101",
-    "1309": "SS1 HD Hindi Geo",
-    "1310": "SS 1 HD Geo",
-    "1311": "SS 1 Hindi Geo",
-    "1312": "SS 1 Geo",
-    "1450": "OSD Binge 1",
-    "1451": "OSD Binge 2",
-    "1452": "OSD Binge 3",
-    "1453": "OSD Binge 4",
-    "1454": "OSD Binge 5"
+    "1": {
+        "channelID": 1,
+        "channel_name": "INDIA TODAY"
+    },
+    "3": {
+        "channelID": 3,
+        "channel_name": "Ruposhi Bangla"
+    },
+    "6": {
+        "channelID": 6,
+        "channel_name": "News18 Gujarati"
+    },
+    "7": {
+        "channelID": 7,
+        "channel_name": "B4U Movies"
+    },
+    "8": {
+        "channelID": 8,
+        "channel_name": "STAR Plus HD"
+    },
+    "9": {
+        "channelID": 9,
+        "channel_name": "B4U Music"
+    },
+    "10": {
+        "channelID": 10,
+        "channel_name": "Flowers"
+    },
+    "11": {
+        "channelID": 11,
+        "channel_name": "TV9 Telugu"
+    },
+    "12": {
+        "channelID": 12,
+        "channel_name": "Zee Anmol Cinema 2"
+    },
+    "13": {
+        "channelID": 13,
+        "channel_name": "India News Haryana"
+    },
+    "14": {
+        "channelID": 14,
+        "channel_name": "India News Rajasthan"
+    },
+    "15": {
+        "channelID": 15,
+        "channel_name": "SET HD"
+    },
+    "17": {
+        "channelID": 17,
+        "channel_name": "Mastiii"
+    },
+    "20": {
+        "channelID": 20,
+        "channel_name": "Zee Bihar Jharkhand"
+    },
+    "23": {
+        "channelID": 23,
+        "channel_name": "News18 Bangla"
+    },
+    "24": {
+        "channelID": 24,
+        "channel_name": "Star Sports 1 Hindi HD"
+    },
+    "25": {
+        "channelID": 25,
+        "channel_name": "Kairali TV"
+    },
+    "26": {
+        "channelID": 26,
+        "channel_name": "Colors Bangla"
+    },
+    "27": {
+        "channelID": 27,
+        "channel_name": "IBC 24"
+    },
+    "28": {
+        "channelID": 28,
+        "channel_name": "Alankar"
+    },
+    "30": {
+        "channelID": 30,
+        "channel_name": "India News UP UK"
+    },
+    "31": {
+        "channelID": 31,
+        "channel_name": "Mazhavil Manorama"
+    },
+    "32": {
+        "channelID": 32,
+        "channel_name": "SONY PIX HD"
+    },
+    "33": {
+        "channelID": 33,
+        "channel_name": "Public TV"
+    },
+    "34": {
+        "channelID": 34,
+        "channel_name": "SONY AATH"
+    },
+    "35": {
+        "channelID": 35,
+        "channel_name": "SONY SPORTS TEN 5 HD"
+    },
+    "36": {
+        "channelID": 36,
+        "channel_name": "News Nation"
+    },
+    "37": {
+        "channelID": 37,
+        "channel_name": "Mega TV"
+    },
+    "38": {
+        "channelID": 38,
+        "channel_name": "Aastha"
+    },
+    "39": {
+        "channelID": 39,
+        "channel_name": "9X Jalwa"
+    },
+    "40": {
+        "channelID": 40,
+        "channel_name": "&tv HD"
+    },
+    "41": {
+        "channelID": 41,
+        "channel_name": "News18 Odia"
+    },
+    "43": {
+        "channelID": 43,
+        "channel_name": "Sanskar"
+    },
+    "44": {
+        "channelID": 44,
+        "channel_name": "Seithigal TV"
+    },
+    "45": {
+        "channelID": 45,
+        "channel_name": "SONY YAY!"
+    },
+    "47": {
+        "channelID": 47,
+        "channel_name": "Jonack TV"
+    },
+    "48": {
+        "channelID": 48,
+        "channel_name": "SONY SAB HD"
+    },
+    "49": {
+        "channelID": 49,
+        "channel_name": "T News"
+    },
+    "50": {
+        "channelID": 50,
+        "channel_name": "Tarang Music"
+    },
+    "51": {
+        "channelID": 51,
+        "channel_name": "Dangal"
+    },
+    "52": {
+        "channelID": 52,
+        "channel_name": "Colors HD"
+    },
+    "53": {
+        "channelID": 53,
+        "channel_name": "Colors Cineplex"
+    },
+    "54": {
+        "channelID": 54,
+        "channel_name": "The Q"
+    },
+    "55": {
+        "channelID": 55,
+        "channel_name": "Travelxp"
+    },
+    "56": {
+        "channelID": 56,
+        "channel_name": "Sony Wah"
+    },
+    "58": {
+        "channelID": 58,
+        "channel_name": "News18 Tamil Nadu"
+    },
+    "60": {
+        "channelID": 60,
+        "channel_name": "DW"
+    },
+    "61": {
+        "channelID": 61,
+        "channel_name": "Colors Cineplex HD"
+    },
+    "63": {
+        "channelID": 63,
+        "channel_name": "Zee TV HD"
+    },
+    "64": {
+        "channelID": 64,
+        "channel_name": "Zee Anmol Cinema"
+    },
+    "65": {
+        "channelID": 65,
+        "channel_name": "TV5 Monde Asie"
+    },
+    "66": {
+        "channelID": 66,
+        "channel_name": "News18 Kerala"
+    },
+    "68": {
+        "channelID": 68,
+        "channel_name": "News18 Assam North East"
+    },
+    "71": {
+        "channelID": 71,
+        "channel_name": "Tata Play English in Hindi"
+    },
+    "72": {
+        "channelID": 72,
+        "channel_name": "REPUBLIC TV"
+    },
+    "73": {
+        "channelID": 73,
+        "channel_name": "ABP Asmita"
+    },
+    "76": {
+        "channelID": 76,
+        "channel_name": "Udaya TV"
+    },
+    "77": {
+        "channelID": 77,
+        "channel_name": "Star Sports 1 Tamil"
+    },
+    "78": {
+        "channelID": 78,
+        "channel_name": "Star Sports 1 HD"
+    },
+    "79": {
+        "channelID": 79,
+        "channel_name": "News18 Uttar Pradesh Uttarakhand"
+    },
+    "80": {
+        "channelID": 80,
+        "channel_name": "SONY MAX HD"
+    },
+    "81": {
+        "channelID": 81,
+        "channel_name": "SONY SPORTS TEN 1 HD"
+    },
+    "82": {
+        "channelID": 82,
+        "channel_name": "Kochu TV"
+    },
+    "83": {
+        "channelID": 83,
+        "channel_name": "ETV Telangana"
+    },
+    "85": {
+        "channelID": 85,
+        "channel_name": "News18 Kannada"
+    },
+    "86": {
+        "channelID": 86,
+        "channel_name": "Star Bharat"
+    },
+    "87": {
+        "channelID": 87,
+        "channel_name": "Manorama News"
+    },
+    "88": {
+        "channelID": 88,
+        "channel_name": "ET NOW"
+    },
+    "90": {
+        "channelID": 90,
+        "channel_name": "TIMES NOW"
+    },
+    "91": {
+        "channelID": 91,
+        "channel_name": "PTC News"
+    },
+    "92": {
+        "channelID": 92,
+        "channel_name": "PTC Chak De"
+    },
+    "93": {
+        "channelID": 93,
+        "channel_name": "NDTV Profit Prime"
+    },
+    "95": {
+        "channelID": 95,
+        "channel_name": "Tata Play Javed Akhtar"
+    },
+    "96": {
+        "channelID": 96,
+        "channel_name": "Zoom"
+    },
+    "97": {
+        "channelID": 97,
+        "channel_name": "TV9 Marathi"
+    },
+    "98": {
+        "channelID": 98,
+        "channel_name": "Russia Today"
+    },
+    "99": {
+        "channelID": 99,
+        "channel_name": "D Tamil"
+    },
+    "100": {
+        "channelID": 100,
+        "channel_name": "Action Cinema"
+    },
+    "101": {
+        "channelID": 101,
+        "channel_name": "Rang"
+    },
+    "102": {
+        "channelID": 102,
+        "channel_name": "ABP Ananda"
+    },
+    "103": {
+        "channelID": 103,
+        "channel_name": "MTV"
+    },
+    "104": {
+        "channelID": 104,
+        "channel_name": "India TV"
+    },
+    "106": {
+        "channelID": 106,
+        "channel_name": "News18 India"
+    },
+    "107": {
+        "channelID": 107,
+        "channel_name": "Colors Gujarati"
+    },
+    "108": {
+        "channelID": 108,
+        "channel_name": "Colors Kannada"
+    },
+    "111": {
+        "channelID": 111,
+        "channel_name": "Tata Play Smart Manager"
+    },
+    "113": {
+        "channelID": 113,
+        "channel_name": "Discovery Science"
+    },
+    "114": {
+        "channelID": 114,
+        "channel_name": "Disney"
+    },
+    "115": {
+        "channelID": 115,
+        "channel_name": "Colors Oriya"
+    },
+    "117": {
+        "channelID": 117,
+        "channel_name": "Food Food"
+    },
+    "118": {
+        "channelID": 118,
+        "channel_name": "Nick Jr"
+    },
+    "119": {
+        "channelID": 119,
+        "channel_name": "Discovery Kids"
+    },
+    "120": {
+        "channelID": 120,
+        "channel_name": "SONY MAX 2"
+    },
+    "121": {
+        "channelID": 121,
+        "channel_name": "Tata Play Fitness"
+    },
+    "122": {
+        "channelID": 122,
+        "channel_name": "PTC Punjabi"
+    },
+    "123": {
+        "channelID": 123,
+        "channel_name": "Zee Cinema"
+    },
+    "126": {
+        "channelID": 126,
+        "channel_name": "EPIC"
+    },
+    "127": {
+        "channelID": 127,
+        "channel_name": "Sonic"
+    },
+    "128": {
+        "channelID": 128,
+        "channel_name": "ETV Cinema"
+    },
+    "129": {
+        "channelID": 129,
+        "channel_name": "Aakaash Aath"
+    },
+    "130": {
+        "channelID": 130,
+        "channel_name": "Animal Planet"
+    },
+    "131": {
+        "channelID": 131,
+        "channel_name": "France 24"
+    },
+    "132": {
+        "channelID": 132,
+        "channel_name": "SONY MAX"
+    },
+    "134": {
+        "channelID": 134,
+        "channel_name": "Colors Marathi"
+    },
+    "135": {
+        "channelID": 135,
+        "channel_name": "TLC"
+    },
+    "136": {
+        "channelID": 136,
+        "channel_name": "GOOD TiMES"
+    },
+    "137": {
+        "channelID": 137,
+        "channel_name": "National Geographic"
+    },
+    "138": {
+        "channelID": 138,
+        "channel_name": "Nick"
+    },
+    "139": {
+        "channelID": 139,
+        "channel_name": "9XM"
+    },
+    "140": {
+        "channelID": 140,
+        "channel_name": "News18 Lokmat"
+    },
+    "141": {
+        "channelID": 141,
+        "channel_name": "Star Sports Select 1"
+    },
+    "142": {
+        "channelID": 142,
+        "channel_name": "UTV Bindass"
+    },
+    "144": {
+        "channelID": 144,
+        "channel_name": "Disney Junior"
+    },
+    "145": {
+        "channelID": 145,
+        "channel_name": "ETV Telugu"
+    },
+    "146": {
+        "channelID": 146,
+        "channel_name": "ETV Andhra Pradesh"
+    },
+    "147": {
+        "channelID": 147,
+        "channel_name": "KTV"
+    },
+    "148": {
+        "channelID": 148,
+        "channel_name": "&pictures"
+    },
+    "150": {
+        "channelID": 150,
+        "channel_name": "SONY SPORTS TEN 1"
+    },
+    "152": {
+        "channelID": 152,
+        "channel_name": "TV9 Kannada"
+    },
+    "153": {
+        "channelID": 153,
+        "channel_name": "Aaj Tak"
+    },
+    "155": {
+        "channelID": 155,
+        "channel_name": "ABP Majha"
+    },
+    "157": {
+        "channelID": 157,
+        "channel_name": "Channel News Asia"
+    },
+    "158": {
+        "channelID": 158,
+        "channel_name": "SONY BBC Earth"
+    },
+    "160": {
+        "channelID": 160,
+        "channel_name": "NTV Telugu"
+    },
+    "161": {
+        "channelID": 161,
+        "channel_name": "Channel WIN"
+    },
+    "162": {
+        "channelID": 162,
+        "channel_name": "Gemini Movies"
+    },
+    "163": {
+        "channelID": 163,
+        "channel_name": "Star Gold 2"
+    },
+    "164": {
+        "channelID": 164,
+        "channel_name": "STAR Gold"
+    },
+    "165": {
+        "channelID": 165,
+        "channel_name": "Sun TV"
+    },
+    "166": {
+        "channelID": 166,
+        "channel_name": "News18 Bihar Jharkhand"
+    },
+    "167": {
+        "channelID": 167,
+        "channel_name": "Tata Play Vedic Maths"
+    },
+    "168": {
+        "channelID": 168,
+        "channel_name": "CNBC TV18 Prime HD"
+    },
+    "170": {
+        "channelID": 170,
+        "channel_name": "SONY SPORTS TEN 2"
+    },
+    "171": {
+        "channelID": 171,
+        "channel_name": "SONY SPORTS TEN 3"
+    },
+    "172": {
+        "channelID": 172,
+        "channel_name": "History TV18"
+    },
+    "173": {
+        "channelID": 173,
+        "channel_name": "Movies Now"
+    },
+    "174": {
+        "channelID": 174,
+        "channel_name": "Romedy Now"
+    },
+    "175": {
+        "channelID": 175,
+        "channel_name": "Zee Bollywood"
+    },
+    "177": {
+        "channelID": 177,
+        "channel_name": "ABP News"
+    },
+    "178": {
+        "channelID": 178,
+        "channel_name": "Amrita TV"
+    },
+    "179": {
+        "channelID": 179,
+        "channel_name": "NDTV India"
+    },
+    "180": {
+        "channelID": 180,
+        "channel_name": "Anjan TV"
+    },
+    "181": {
+        "channelID": 181,
+        "channel_name": "Bhojpuri Cinema"
+    },
+    "183": {
+        "channelID": 183,
+        "channel_name": "India News"
+    },
+    "184": {
+        "channelID": 184,
+        "channel_name": "Nat Geo Wild"
+    },
+    "185": {
+        "channelID": 185,
+        "channel_name": "Star Life"
+    },
+    "187": {
+        "channelID": 187,
+        "channel_name": "Colors Infinity HD"
+    },
+    "188": {
+        "channelID": 188,
+        "channel_name": "BBC World News"
+    },
+    "189": {
+        "channelID": 189,
+        "channel_name": "NewsX"
+    },
+    "190": {
+        "channelID": 190,
+        "channel_name": "Al Jazeera"
+    },
+    "191": {
+        "channelID": 191,
+        "channel_name": "DD National"
+    },
+    "192": {
+        "channelID": 192,
+        "channel_name": "Fakt Marathi"
+    },
+    "193": {
+        "channelID": 193,
+        "channel_name": "Chardikla Time TV"
+    },
+    "194": {
+        "channelID": 194,
+        "channel_name": "Dangal 2"
+    },
+    "195": {
+        "channelID": 195,
+        "channel_name": "Gemini TV"
+    },
+    "198": {
+        "channelID": 198,
+        "channel_name": "Jaya Plus"
+    },
+    "199": {
+        "channelID": 199,
+        "channel_name": "Jaya Max"
+    },
+    "200": {
+        "channelID": 200,
+        "channel_name": "Kalaignar TV"
+    },
+    "201": {
+        "channelID": 201,
+        "channel_name": "J Movies"
+    },
+    "203": {
+        "channelID": 203,
+        "channel_name": "News18 Madhya Pradesh Chhattisgarh"
+    },
+    "204": {
+        "channelID": 204,
+        "channel_name": "CNBC Awaaz"
+    },
+    "205": {
+        "channelID": 205,
+        "channel_name": "News18 Rajasthan"
+    },
+    "206": {
+        "channelID": 206,
+        "channel_name": "CNN News18."
+    },
+    "207": {
+        "channelID": 207,
+        "channel_name": "News Time Bangla"
+    },
+    "208": {
+        "channelID": 208,
+        "channel_name": "NDTV 24x7"
+    },
+    "209": {
+        "channelID": 209,
+        "channel_name": "News 24"
+    },
+    "210": {
+        "channelID": 210,
+        "channel_name": "MN+ HD"
+    },
+    "211": {
+        "channelID": 211,
+        "channel_name": "Kairali News"
+    },
+    "212": {
+        "channelID": 212,
+        "channel_name": "Sansad TV 2"
+    },
+    "213": {
+        "channelID": 213,
+        "channel_name": "Sansad TV 1"
+    },
+    "214": {
+        "channelID": 214,
+        "channel_name": "Rengoni TV"
+    },
+    "215": {
+        "channelID": 215,
+        "channel_name": "Sangeet Bangla"
+    },
+    "217": {
+        "channelID": 217,
+        "channel_name": "Sangeet Marathi"
+    },
+    "218": {
+        "channelID": 218,
+        "channel_name": "SVBC Telugu"
+    },
+    "219": {
+        "channelID": 219,
+        "channel_name": "Discovery Channel"
+    },
+    "220": {
+        "channelID": 220,
+        "channel_name": "Puthiya Thalaimurai"
+    },
+    "221": {
+        "channelID": 221,
+        "channel_name": "Protidin Time"
+    },
+    "222": {
+        "channelID": 222,
+        "channel_name": "India News MP CG"
+    },
+    "223": {
+        "channelID": 223,
+        "channel_name": "DD Sports"
+    },
+    "224": {
+        "channelID": 224,
+        "channel_name": "E24"
+    },
+    "225": {
+        "channelID": 225,
+        "channel_name": "ABN Andhra Jyothy"
+    },
+    "226": {
+        "channelID": 226,
+        "channel_name": "NEWS LIVE"
+    },
+    "227": {
+        "channelID": 227,
+        "channel_name": "Fashion TV"
+    },
+    "228": {
+        "channelID": 228,
+        "channel_name": "Discovery Turbo"
+    },
+    "229": {
+        "channelID": 229,
+        "channel_name": "Surya Movies"
+    },
+    "230": {
+        "channelID": 230,
+        "channel_name": "Surya TV"
+    },
+    "231": {
+        "channelID": 231,
+        "channel_name": "Udaya Movies"
+    },
+    "232": {
+        "channelID": 232,
+        "channel_name": "News18 Punjab"
+    },
+    "233": {
+        "channelID": 233,
+        "channel_name": "Jai Maharashtra"
+    },
+    "234": {
+        "channelID": 234,
+        "channel_name": "MNX"
+    },
+    "235": {
+        "channelID": 235,
+        "channel_name": "Star Sports 2 HD"
+    },
+    "236": {
+        "channelID": 236,
+        "channel_name": "MTV Beats"
+    },
+    "237": {
+        "channelID": 237,
+        "channel_name": "Tarang TV"
+    },
+    "238": {
+        "channelID": 238,
+        "channel_name": "Cartoon Network"
+    },
+    "239": {
+        "channelID": 239,
+        "channel_name": "Pogo"
+    },
+    "243": {
+        "channelID": 243,
+        "channel_name": "CNN International"
+    },
+    "244": {
+        "channelID": 244,
+        "channel_name": "Star Bharat HD"
+    },
+    "246": {
+        "channelID": 246,
+        "channel_name": "Star Sports Select 1 HD"
+    },
+    "248": {
+        "channelID": 248,
+        "channel_name": "Zee YUVA"
+    },
+    "249": {
+        "channelID": 249,
+        "channel_name": "Zee Talkies"
+    },
+    "250": {
+        "channelID": 250,
+        "channel_name": "Zee Telugu"
+    },
+    "251": {
+        "channelID": 251,
+        "channel_name": "Zee Marathi"
+    },
+    "252": {
+        "channelID": 252,
+        "channel_name": "Zee Cinemalu"
+    },
+    "253": {
+        "channelID": 253,
+        "channel_name": "Zee Bangla"
+    },
+    "254": {
+        "channelID": 254,
+        "channel_name": "Zee Bangla Cinema"
+    },
+    "255": {
+        "channelID": 255,
+        "channel_name": "WION"
+    },
+    "256": {
+        "channelID": 256,
+        "channel_name": "Zee Kannada"
+    },
+    "257": {
+        "channelID": 257,
+        "channel_name": "Zee Tamil"
+    },
+    "258": {
+        "channelID": 258,
+        "channel_name": "Zee 24 Ghanta"
+    },
+    "259": {
+        "channelID": 259,
+        "channel_name": "Zee News"
+    },
+    "260": {
+        "channelID": 260,
+        "channel_name": "Zee Business"
+    },
+    "261": {
+        "channelID": 261,
+        "channel_name": "Zee 24 Taas"
+    },
+    "262": {
+        "channelID": 262,
+        "channel_name": "Zee Delhi NCR Haryana"
+    },
+    "265": {
+        "channelID": 265,
+        "channel_name": "Disney International HD"
+    },
+    "266": {
+        "channelID": 266,
+        "channel_name": "10 TV"
+    },
+    "267": {
+        "channelID": 267,
+        "channel_name": "&pictures HD"
+    },
+    "268": {
+        "channelID": 268,
+        "channel_name": "ETV Life"
+    },
+    "269": {
+        "channelID": 269,
+        "channel_name": "Goodness"
+    },
+    "270": {
+        "channelID": 270,
+        "channel_name": "Janam TV"
+    },
+    "272": {
+        "channelID": 272,
+        "channel_name": "Polimer TV"
+    },
+    "273": {
+        "channelID": 273,
+        "channel_name": "STAR Movies"
+    },
+    "274": {
+        "channelID": 274,
+        "channel_name": "V6 Telugu"
+    },
+    "275": {
+        "channelID": 275,
+        "channel_name": "Vijay Super"
+    },
+    "276": {
+        "channelID": 276,
+        "channel_name": "WoW Cinema One"
+    },
+    "277": {
+        "channelID": 277,
+        "channel_name": "Star Maa Movies"
+    },
+    "278": {
+        "channelID": 278,
+        "channel_name": "Good News Today"
+    },
+    "282": {
+        "channelID": 282,
+        "channel_name": "Angel TV"
+    },
+    "283": {
+        "channelID": 283,
+        "channel_name": "Aastha Bhajan"
+    },
+    "284": {
+        "channelID": 284,
+        "channel_name": "Adithya TV"
+    },
+    "285": {
+        "channelID": 285,
+        "channel_name": "Aradana TV"
+    },
+    "286": {
+        "channelID": 286,
+        "channel_name": "APN News"
+    },
+    "287": {
+        "channelID": 287,
+        "channel_name": "Animal Planet HD World"
+    },
+    "288": {
+        "channelID": 288,
+        "channel_name": "Dharma Sandesh"
+    },
+    "289": {
+        "channelID": 289,
+        "channel_name": "Asianet."
+    },
+    "290": {
+        "channelID": 290,
+        "channel_name": "Bhakti TV"
+    },
+    "291": {
+        "channelID": 291,
+        "channel_name": "Bharat Samachar"
+    },
+    "292": {
+        "channelID": 292,
+        "channel_name": "Asianet HD"
+    },
+    "293": {
+        "channelID": 293,
+        "channel_name": "Asianet Movies"
+    },
+    "294": {
+        "channelID": 294,
+        "channel_name": "Asianet Plus"
+    },
+    "296": {
+        "channelID": 296,
+        "channel_name": "BFLIX"
+    },
+    "297": {
+        "channelID": 297,
+        "channel_name": "Big Magic"
+    },
+    "302": {
+        "channelID": 302,
+        "channel_name": "Chutti TV"
+    },
+    "303": {
+        "channelID": 303,
+        "channel_name": "CNBC Bajaar"
+    },
+    "304": {
+        "channelID": 304,
+        "channel_name": "CNBC TV18"
+    },
+    "305": {
+        "channelID": 305,
+        "channel_name": "Colors Bangla HD"
+    },
+    "306": {
+        "channelID": 306,
+        "channel_name": "Comedy Central"
+    },
+    "307": {
+        "channelID": 307,
+        "channel_name": "Comedy Central HD"
+    },
+    "308": {
+        "channelID": 308,
+        "channel_name": "Colors Marathi HD"
+    },
+    "311": {
+        "channelID": 311,
+        "channel_name": "CTVN AKD Plus"
+    },
+    "314": {
+        "channelID": 314,
+        "channel_name": "DD Bangla"
+    },
+    "316": {
+        "channelID": 316,
+        "channel_name": "DD Bharati"
+    },
+    "317": {
+        "channelID": 317,
+        "channel_name": "DD Bihar"
+    },
+    "319": {
+        "channelID": 319,
+        "channel_name": "Tata Play Bollywood Premiere HD"
+    },
+    "320": {
+        "channelID": 320,
+        "channel_name": "TV5 News"
+    },
+    "321": {
+        "channelID": 321,
+        "channel_name": "DD Chandana"
+    },
+    "322": {
+        "channelID": 322,
+        "channel_name": "DD News"
+    },
+    "323": {
+        "channelID": 323,
+        "channel_name": "DD Girnar"
+    },
+    "324": {
+        "channelID": 324,
+        "channel_name": "DD India"
+    },
+    "325": {
+        "channelID": 325,
+        "channel_name": "DD Kashir"
+    },
+    "326": {
+        "channelID": 326,
+        "channel_name": "DD Kisan"
+    },
+    "328": {
+        "channelID": 328,
+        "channel_name": "DD Malayalam"
+    },
+    "329": {
+        "channelID": 329,
+        "channel_name": "DD Manipur"
+    },
+    "330": {
+        "channelID": 330,
+        "channel_name": "DD Madhya Pradesh"
+    },
+    "331": {
+        "channelID": 331,
+        "channel_name": "DD North East"
+    },
+    "332": {
+        "channelID": 332,
+        "channel_name": "DD Rajasthan"
+    },
+    "333": {
+        "channelID": 333,
+        "channel_name": "DD Odia"
+    },
+    "334": {
+        "channelID": 334,
+        "channel_name": "DD Tamil"
+    },
+    "335": {
+        "channelID": 335,
+        "channel_name": "DD Punjabi"
+    },
+    "336": {
+        "channelID": 336,
+        "channel_name": "DD Sahyadri"
+    },
+    "337": {
+        "channelID": 337,
+        "channel_name": "DD Saptagiri"
+    },
+    "338": {
+        "channelID": 338,
+        "channel_name": "DD Urdu"
+    },
+    "339": {
+        "channelID": 339,
+        "channel_name": "DD Uttar Pradesh"
+    },
+    "341": {
+        "channelID": 341,
+        "channel_name": "Discovery HD World"
+    },
+    "342": {
+        "channelID": 342,
+        "channel_name": "R Kannada"
+    },
+    "344": {
+        "channelID": 344,
+        "channel_name": "Hindi Khabar"
+    },
+    "345": {
+        "channelID": 345,
+        "channel_name": "Hungama"
+    },
+    "348": {
+        "channelID": 348,
+        "channel_name": "Harvest TV 24x7"
+    },
+    "349": {
+        "channelID": 349,
+        "channel_name": "HM TV"
+    },
+    "351": {
+        "channelID": 351,
+        "channel_name": "Swara Sagar"
+    },
+    "352": {
+        "channelID": 352,
+        "channel_name": "ETV Plus"
+    },
+    "353": {
+        "channelID": 353,
+        "channel_name": "DY 365"
+    },
+    "354": {
+        "channelID": 354,
+        "channel_name": "News18 Jammu Kashmir Ladakh Himachal Haryana"
+    },
+    "355": {
+        "channelID": 355,
+        "channel_name": "Gemini TV HD"
+    },
+    "356": {
+        "channelID": 356,
+        "channel_name": "God TV"
+    },
+    "358": {
+        "channelID": 358,
+        "channel_name": "ETV Abhiruchi"
+    },
+    "359": {
+        "channelID": 359,
+        "channel_name": "ETV HD"
+    },
+    "360": {
+        "channelID": 360,
+        "channel_name": "Gemini Comedy"
+    },
+    "361": {
+        "channelID": 361,
+        "channel_name": "Gemini Life"
+    },
+    "362": {
+        "channelID": 362,
+        "channel_name": "Gemini Movies HD"
+    },
+    "363": {
+        "channelID": 363,
+        "channel_name": "Gemini Music"
+    },
+    "365": {
+        "channelID": 365,
+        "channel_name": "Gulistan News"
+    },
+    "366": {
+        "channelID": 366,
+        "channel_name": "India News Punjab"
+    },
+    "367": {
+        "channelID": 367,
+        "channel_name": "Star Life HD"
+    },
+    "368": {
+        "channelID": 368,
+        "channel_name": "Indradhanu"
+    },
+    "370": {
+        "channelID": 370,
+        "channel_name": "Jaihind TV"
+    },
+    "371": {
+        "channelID": 371,
+        "channel_name": "Janta TV"
+    },
+    "372": {
+        "channelID": 372,
+        "channel_name": "Jeevan TV"
+    },
+    "373": {
+        "channelID": 373,
+        "channel_name": "Jinvani Channel"
+    },
+    "375": {
+        "channelID": 375,
+        "channel_name": "Kalinga TV"
+    },
+    "376": {
+        "channelID": 376,
+        "channel_name": "Kanak News"
+    },
+    "377": {
+        "channelID": 377,
+        "channel_name": "Kappa TV"
+    },
+    "378": {
+        "channelID": 378,
+        "channel_name": "Kaumudy TV"
+    },
+    "379": {
+        "channelID": 379,
+        "channel_name": "Khushboo Bangla"
+    },
+    "380": {
+        "channelID": 380,
+        "channel_name": "KTV HD"
+    },
+    "381": {
+        "channelID": 381,
+        "channel_name": "Kolkata TV"
+    },
+    "382": {
+        "channelID": 382,
+        "channel_name": "Zee Zest HD"
+    },
+    "383": {
+        "channelID": 383,
+        "channel_name": "Kushi TV"
+    },
+    "384": {
+        "channelID": 384,
+        "channel_name": "Khabarain Abhi Tak"
+    },
+    "385": {
+        "channelID": 385,
+        "channel_name": "Sharnam TV"
+    },
+    "387": {
+        "channelID": 387,
+        "channel_name": "Star Maa Movies HD"
+    },
+    "388": {
+        "channelID": 388,
+        "channel_name": "Star Maa Gold"
+    },
+    "389": {
+        "channelID": 389,
+        "channel_name": "Star Maa Music"
+    },
+    "390": {
+        "channelID": 390,
+        "channel_name": "Madha TV"
+    },
+    "391": {
+        "channelID": 391,
+        "channel_name": "MalaiMurasu Seithigal"
+    },
+    "392": {
+        "channelID": 392,
+        "channel_name": "Makkal TV"
+    },
+    "394": {
+        "channelID": 394,
+        "channel_name": "Mathrubhumi News"
+    },
+    "395": {
+        "channelID": 395,
+        "channel_name": "Mazhavil Manorama HD"
+    },
+    "396": {
+        "channelID": 396,
+        "channel_name": "Mega 24"
+    },
+    "397": {
+        "channelID": 397,
+        "channel_name": "MH One Shraddha"
+    },
+    "399": {
+        "channelID": 399,
+        "channel_name": "MH One"
+    },
+    "400": {
+        "channelID": 400,
+        "channel_name": "Mega Musiq"
+    },
+    "401": {
+        "channelID": 401,
+        "channel_name": "MH One News"
+    },
+    "405": {
+        "channelID": 405,
+        "channel_name": "MTV Beats HD"
+    },
+    "406": {
+        "channelID": 406,
+        "channel_name": "MTV HD"
+    },
+    "408": {
+        "channelID": 408,
+        "channel_name": "Nambikkai TV"
+    },
+    "411": {
+        "channelID": 411,
+        "channel_name": "Murasu TV"
+    },
+    "413": {
+        "channelID": 413,
+        "channel_name": "Nat Geo Wild HD"
+    },
+    "414": {
+        "channelID": 414,
+        "channel_name": "News 1 India"
+    },
+    "415": {
+        "channelID": 415,
+        "channel_name": "News 11 Bharat"
+    },
+    "417": {
+        "channelID": 417,
+        "channel_name": "North East Live"
+    },
+    "418": {
+        "channelID": 418,
+        "channel_name": "Colors Tamil"
+    },
+    "419": {
+        "channelID": 419,
+        "channel_name": "OTV"
+    },
+    "420": {
+        "channelID": 420,
+        "channel_name": "Peace of Mind"
+    },
+    "421": {
+        "channelID": 421,
+        "channel_name": "Peppers TV"
+    },
+    "423": {
+        "channelID": 423,
+        "channel_name": "Prag News"
+    },
+    "424": {
+        "channelID": 424,
+        "channel_name": "Public Music"
+    },
+    "425": {
+        "channelID": 425,
+        "channel_name": "Raj Musix"
+    },
+    "426": {
+        "channelID": 426,
+        "channel_name": "Raj Digital Plus"
+    },
+    "427": {
+        "channelID": 427,
+        "channel_name": "Raj Musix Kannada"
+    },
+    "428": {
+        "channelID": 428,
+        "channel_name": "Raj News Malayalam"
+    },
+    "429": {
+        "channelID": 429,
+        "channel_name": "Raj Musix Telugu"
+    },
+    "430": {
+        "channelID": 430,
+        "channel_name": "Raj News Telugu"
+    },
+    "431": {
+        "channelID": 431,
+        "channel_name": "Oscar Movies Bhojpuri."
+    },
+    "433": {
+        "channelID": 433,
+        "channel_name": "Nick HD+"
+    },
+    "434": {
+        "channelID": 434,
+        "channel_name": "Jothi TV"
+    },
+    "436": {
+        "channelID": 436,
+        "channel_name": "Safari TV"
+    },
+    "438": {
+        "channelID": 438,
+        "channel_name": "Colors Rishtey"
+    },
+    "439": {
+        "channelID": 439,
+        "channel_name": "Raj TV"
+    },
+    "441": {
+        "channelID": 441,
+        "channel_name": "Samay"
+    },
+    "442": {
+        "channelID": 442,
+        "channel_name": "Udaya Music"
+    },
+    "443": {
+        "channelID": 443,
+        "channel_name": "Sun News"
+    },
+    "444": {
+        "channelID": 444,
+        "channel_name": "Travelxp Tamil"
+    },
+    "445": {
+        "channelID": 445,
+        "channel_name": "Shubhavaarta TV"
+    },
+    "446": {
+        "channelID": 446,
+        "channel_name": "Paras Gold One"
+    },
+    "447": {
+        "channelID": 447,
+        "channel_name": "Sadhna TV"
+    },
+    "448": {
+        "channelID": 448,
+        "channel_name": "News7"
+    },
+    "449": {
+        "channelID": 449,
+        "channel_name": "Ramdhenu"
+    },
+    "450": {
+        "channelID": 450,
+        "channel_name": "SVBC"
+    },
+    "455": {
+        "channelID": 455,
+        "channel_name": "Sathiyam TV"
+    },
+    "456": {
+        "channelID": 456,
+        "channel_name": "Satsang TV"
+    },
+    "457": {
+        "channelID": 457,
+        "channel_name": "Shalom TV"
+    },
+    "458": {
+        "channelID": 458,
+        "channel_name": "Shubh TV"
+    },
+    "460": {
+        "channelID": 460,
+        "channel_name": "SONY BBC Earth HD"
+    },
+    "461": {
+        "channelID": 461,
+        "channel_name": "Star Gold Select"
+    },
+    "462": {
+        "channelID": 462,
+        "channel_name": "SONY SPORTS TEN 2 HD"
+    },
+    "463": {
+        "channelID": 463,
+        "channel_name": "Star Sports Select 2 HD"
+    },
+    "464": {
+        "channelID": 464,
+        "channel_name": "SONY SPORTS TEN 3 HD"
+    },
+    "465": {
+        "channelID": 465,
+        "channel_name": "STAR Jalsha"
+    },
+    "466": {
+        "channelID": 466,
+        "channel_name": "STAR Pravah"
+    },
+    "467": {
+        "channelID": 467,
+        "channel_name": "Star Suvarna HD"
+    },
+    "468": {
+        "channelID": 468,
+        "channel_name": "Star Jalsha HD"
+    },
+    "469": {
+        "channelID": 469,
+        "channel_name": "Star Pravah HD"
+    },
+    "470": {
+        "channelID": 470,
+        "channel_name": "STAR Utsav Movies"
+    },
+    "474": {
+        "channelID": 474,
+        "channel_name": "Sun Life"
+    },
+    "475": {
+        "channelID": 475,
+        "channel_name": "Sudarshan News"
+    },
+    "477": {
+        "channelID": 477,
+        "channel_name": "Sri Sankara TV"
+    },
+    "479": {
+        "channelID": 479,
+        "channel_name": "Surya HD"
+    },
+    "480": {
+        "channelID": 480,
+        "channel_name": "TLC HD"
+    },
+    "481": {
+        "channelID": 481,
+        "channel_name": "Surya Comedy"
+    },
+    "483": {
+        "channelID": 483,
+        "channel_name": "Surya Music"
+    },
+    "484": {
+        "channelID": 484,
+        "channel_name": "Travelxp HD"
+    },
+    "485": {
+        "channelID": 485,
+        "channel_name": "TOTAL TV"
+    },
+    "486": {
+        "channelID": 486,
+        "channel_name": "Tata Play Bollywood Premiere"
+    },
+    "489": {
+        "channelID": 489,
+        "channel_name": "TV9 Gujarati"
+    },
+    "490": {
+        "channelID": 490,
+        "channel_name": "SVBC 2"
+    },
+    "491": {
+        "channelID": 491,
+        "channel_name": "Udaya Comedy"
+    },
+    "492": {
+        "channelID": 492,
+        "channel_name": "Udaya TV HD"
+    },
+    "493": {
+        "channelID": 493,
+        "channel_name": "Star Gold Romance"
+    },
+    "494": {
+        "channelID": 494,
+        "channel_name": "Star Gold Thrills"
+    },
+    "496": {
+        "channelID": 496,
+        "channel_name": "Star Vijay HD"
+    },
+    "497": {
+        "channelID": 497,
+        "channel_name": "VTV News"
+    },
+    "498": {
+        "channelID": 498,
+        "channel_name": "VH1"
+    },
+    "499": {
+        "channelID": 499,
+        "channel_name": "Vasanth TV"
+    },
+    "500": {
+        "channelID": 500,
+        "channel_name": "Vedic"
+    },
+    "501": {
+        "channelID": 501,
+        "channel_name": "Zee Marathi HD"
+    },
+    "502": {
+        "channelID": 502,
+        "channel_name": "Zee Cafe HD"
+    },
+    "503": {
+        "channelID": 503,
+        "channel_name": "Zee Cinema HD"
+    },
+    "504": {
+        "channelID": 504,
+        "channel_name": "Zee Zest"
+    },
+    "506": {
+        "channelID": 506,
+        "channel_name": "&Flix HD"
+    },
+    "507": {
+        "channelID": 507,
+        "channel_name": "Zee 24 Kalak"
+    },
+    "508": {
+        "channelID": 508,
+        "channel_name": "STAR PLUS HD +1"
+    },
+    "509": {
+        "channelID": 509,
+        "channel_name": "Polimer News"
+    },
+    "510": {
+        "channelID": 510,
+        "channel_name": "Raj News Kannada"
+    },
+    "511": {
+        "channelID": 511,
+        "channel_name": "Sun Music"
+    },
+    "512": {
+        "channelID": 512,
+        "channel_name": "Zee Madhya Pradesh Chattisgarh"
+    },
+    "513": {
+        "channelID": 513,
+        "channel_name": "Colors HD +1"
+    },
+    "514": {
+        "channelID": 514,
+        "channel_name": "Zee Bharat"
+    },
+    "515": {
+        "channelID": 515,
+        "channel_name": "Zee Talkies HD"
+    },
+    "516": {
+        "channelID": 516,
+        "channel_name": "STAR Maa HD"
+    },
+    "517": {
+        "channelID": 517,
+        "channel_name": "Zing"
+    },
+    "518": {
+        "channelID": 518,
+        "channel_name": "Salaam TV"
+    },
+    "520": {
+        "channelID": 520,
+        "channel_name": "Sun Music HD"
+    },
+    "521": {
+        "channelID": 521,
+        "channel_name": "Sun TV HD"
+    },
+    "522": {
+        "channelID": 522,
+        "channel_name": "Zee Bangla HD"
+    },
+    "523": {
+        "channelID": 523,
+        "channel_name": "Zee Anmol"
+    },
+    "524": {
+        "channelID": 524,
+        "channel_name": "Thanthi TV"
+    },
+    "525": {
+        "channelID": 525,
+        "channel_name": "Raj News Tamil."
+    },
+    "527": {
+        "channelID": 527,
+        "channel_name": "STAR Vijay"
+    },
+    "530": {
+        "channelID": 530,
+        "channel_name": "&Prive HD"
+    },
+    "532": {
+        "channelID": 532,
+        "channel_name": "Asianet News"
+    },
+    "533": {
+        "channelID": 533,
+        "channel_name": "Colors SUPER"
+    },
+    "537": {
+        "channelID": 537,
+        "channel_name": "Jalsha Movies HD"
+    },
+    "538": {
+        "channelID": 538,
+        "channel_name": "STAR Maa"
+    },
+    "539": {
+        "channelID": 539,
+        "channel_name": "VH1 HD"
+    },
+    "540": {
+        "channelID": 540,
+        "channel_name": "Star Suvarna Plus"
+    },
+    "541": {
+        "channelID": 541,
+        "channel_name": "Raj Musix Malayalam"
+    },
+    "543": {
+        "channelID": 543,
+        "channel_name": "Colors"
+    },
+    "544": {
+        "channelID": 544,
+        "channel_name": "Colors Infinity"
+    },
+    "546": {
+        "channelID": 546,
+        "channel_name": "Saam TV"
+    },
+    "547": {
+        "channelID": 547,
+        "channel_name": "Times Now World"
+    },
+    "548": {
+        "channelID": 548,
+        "channel_name": "DD Yadagiri"
+    },
+    "550": {
+        "channelID": 550,
+        "channel_name": "STAR Plus"
+    },
+    "551": {
+        "channelID": 551,
+        "channel_name": "STAR Utsav"
+    },
+    "552": {
+        "channelID": 552,
+        "channel_name": "Gujarat Samachar TV"
+    },
+    "553": {
+        "channelID": 553,
+        "channel_name": "We TV"
+    },
+    "554": {
+        "channelID": 554,
+        "channel_name": "Sony Pal"
+    },
+    "555": {
+        "channelID": 555,
+        "channel_name": "Asianet Suvarna News"
+    },
+    "556": {
+        "channelID": 556,
+        "channel_name": "SET"
+    },
+    "557": {
+        "channelID": 557,
+        "channel_name": "Zee TV"
+    },
+    "558": {
+        "channelID": 558,
+        "channel_name": "SONY PIX"
+    },
+    "559": {
+        "channelID": 559,
+        "channel_name": "SONY SAB"
+    },
+    "560": {
+        "channelID": 560,
+        "channel_name": "STAR Movies HD"
+    },
+    "561": {
+        "channelID": 561,
+        "channel_name": "Chintu TV"
+    },
+    "562": {
+        "channelID": 562,
+        "channel_name": "Movies Now HD"
+    },
+    "566": {
+        "channelID": 566,
+        "channel_name": "Kannada Naaptol"
+    },
+    "567": {
+        "channelID": 567,
+        "channel_name": "Nepal 1"
+    },
+    "568": {
+        "channelID": 568,
+        "channel_name": "Prarthana Life"
+    },
+    "571": {
+        "channelID": 571,
+        "channel_name": "Tata Play Punjab De Rang"
+    },
+    "572": {
+        "channelID": 572,
+        "channel_name": "Jalsha Movies"
+    },
+    "574": {
+        "channelID": 574,
+        "channel_name": "Zee Cinema HD +1"
+    },
+    "576": {
+        "channelID": 576,
+        "channel_name": "Media One"
+    },
+    "577": {
+        "channelID": 577,
+        "channel_name": "Swaraj Express SMBC"
+    },
+    "578": {
+        "channelID": 578,
+        "channel_name": "&TV"
+    },
+    "579": {
+        "channelID": 579,
+        "channel_name": "Star Suvarna"
+    },
+    "580": {
+        "channelID": 580,
+        "channel_name": "Zee Punjab Haryana Himachal Pradesh"
+    },
+    "581": {
+        "channelID": 581,
+        "channel_name": "STAR GOLD HD +1"
+    },
+    "583": {
+        "channelID": 583,
+        "channel_name": "Zee Rajasthan News"
+    },
+    "584": {
+        "channelID": 584,
+        "channel_name": "Zee TV HD +1"
+    },
+    "585": {
+        "channelID": 585,
+        "channel_name": "Vissa TV"
+    },
+    "586": {
+        "channelID": 586,
+        "channel_name": "Sandesh News"
+    },
+    "587": {
+        "channelID": 587,
+        "channel_name": "Super Hungama"
+    },
+    "590": {
+        "channelID": 590,
+        "channel_name": "Telugu Naaptol"
+    },
+    "591": {
+        "channelID": 591,
+        "channel_name": "Mirror Now"
+    },
+    "592": {
+        "channelID": 592,
+        "channel_name": "&flix"
+    },
+    "593": {
+        "channelID": 593,
+        "channel_name": "STAR Movies Select HD"
+    },
+    "594": {
+        "channelID": 594,
+        "channel_name": "Ishwar TV"
+    },
+    "595": {
+        "channelID": 595,
+        "channel_name": "Star Gold Select HD"
+    },
+    "596": {
+        "channelID": 596,
+        "channel_name": "Sakshi TV"
+    },
+    "597": {
+        "channelID": 597,
+        "channel_name": "Zee Sarthak"
+    },
+    "599": {
+        "channelID": 599,
+        "channel_name": "MNX HD"
+    },
+    "600": {
+        "channelID": 600,
+        "channel_name": "STAR Sports 1"
+    },
+    "601": {
+        "channelID": 601,
+        "channel_name": "Star Sports 1 Hindi"
+    },
+    "602": {
+        "channelID": 602,
+        "channel_name": "Zee Cafe"
+    },
+    "603": {
+        "channelID": 603,
+        "channel_name": "Star Sports Select 2"
+    },
+    "605": {
+        "channelID": 605,
+        "channel_name": "National Geographic HD"
+    },
+    "608": {
+        "channelID": 608,
+        "channel_name": "Zee Tamil HD"
+    },
+    "609": {
+        "channelID": 609,
+        "channel_name": "STAR Sports 2"
+    },
+    "610": {
+        "channelID": 610,
+        "channel_name": "SONY SPORTS TEN 5"
+    },
+    "611": {
+        "channelID": 611,
+        "channel_name": "Sirippoli"
+    },
+    "612": {
+        "channelID": 612,
+        "channel_name": "Colors Kannada HD"
+    },
+    "613": {
+        "channelID": 613,
+        "channel_name": "News State UP Uttarakhand"
+    },
+    "614": {
+        "channelID": 614,
+        "channel_name": "Tata Play Bangla Cinema"
+    },
+    "616": {
+        "channelID": 616,
+        "channel_name": "History TV18 HD"
+    },
+    "618": {
+        "channelID": 618,
+        "channel_name": "Tata Play Beauty"
+    },
+    "622": {
+        "channelID": 622,
+        "channel_name": "Tata Play Marathi Cinema"
+    },
+    "624": {
+        "channelID": 624,
+        "channel_name": "Pitaara Movies"
+    },
+    "626": {
+        "channelID": 626,
+        "channel_name": "Tata Play Fun Learn Preschool"
+    },
+    "627": {
+        "channelID": 627,
+        "channel_name": "Tata Play Fun Learn Junior"
+    },
+    "629": {
+        "channelID": 629,
+        "channel_name": "TV5 Kannada"
+    },
+    "630": {
+        "channelID": 630,
+        "channel_name": "Hindu Dharmam"
+    },
+    "632": {
+        "channelID": 632,
+        "channel_name": "Star GOLD HD"
+    },
+    "633": {
+        "channelID": 633,
+        "channel_name": "Investigation Discovery"
+    },
+    "635": {
+        "channelID": 635,
+        "channel_name": "Zee Telugu HD"
+    },
+    "636": {
+        "channelID": 636,
+        "channel_name": "Zee Cinemalu HD"
+    },
+    "637": {
+        "channelID": 637,
+        "channel_name": "Zee Uttar Pradesh Uttarakhand"
+    },
+    "641": {
+        "channelID": 641,
+        "channel_name": "Tata Play Cooking"
+    },
+    "643": {
+        "channelID": 643,
+        "channel_name": "News State MP CG"
+    },
+    "645": {
+        "channelID": 645,
+        "channel_name": "Tata Play English in Telugu"
+    },
+    "646": {
+        "channelID": 646,
+        "channel_name": "DD Gyan Darshan"
+    },
+    "647": {
+        "channelID": 647,
+        "channel_name": "Isaiaruvi"
+    },
+    "648": {
+        "channelID": 648,
+        "channel_name": "Calcutta News"
+    },
+    "650": {
+        "channelID": 650,
+        "channel_name": "First India Rajasthan"
+    },
+    "652": {
+        "channelID": 652,
+        "channel_name": "Bansal News"
+    },
+    "654": {
+        "channelID": 654,
+        "channel_name": "India News Gujarat"
+    },
+    "657": {
+        "channelID": 657,
+        "channel_name": "Tata Play Telugu Cinema"
+    },
+    "658": {
+        "channelID": 658,
+        "channel_name": "Sony Marathi"
+    },
+    "659": {
+        "channelID": 659,
+        "channel_name": "Vendhar TV"
+    },
+    "660": {
+        "channelID": 660,
+        "channel_name": "Ayush TV"
+    },
+    "661": {
+        "channelID": 661,
+        "channel_name": "Public Movies"
+    },
+    "663": {
+        "channelID": 663,
+        "channel_name": "Tata Play Tamil Cinema"
+    },
+    "664": {
+        "channelID": 664,
+        "channel_name": "Star Sports 3"
+    },
+    "666": {
+        "channelID": 666,
+        "channel_name": "Tata Play Theatre HD"
+    },
+    "667": {
+        "channelID": 667,
+        "channel_name": "Colors Kannada Cinema"
+    },
+    "674": {
+        "channelID": 674,
+        "channel_name": "Colors Tamil HD"
+    },
+    "675": {
+        "channelID": 675,
+        "channel_name": "Zee Kannada HD"
+    },
+    "677": {
+        "channelID": 677,
+        "channel_name": "Tata Play ShortsTV"
+    },
+    "681": {
+        "channelID": 681,
+        "channel_name": "Cartoon Network HD+"
+    },
+    "683": {
+        "channelID": 683,
+        "channel_name": "Star Sports First"
+    },
+    "684": {
+        "channelID": 684,
+        "channel_name": "Zee Keralam"
+    },
+    "685": {
+        "channelID": 685,
+        "channel_name": "India Voice"
+    },
+    "688": {
+        "channelID": 688,
+        "channel_name": "Star Sports 1 Telugu"
+    },
+    "689": {
+        "channelID": 689,
+        "channel_name": "Aaj Tak HD"
+    },
+    "690": {
+        "channelID": 690,
+        "channel_name": "Star Sports 1 Kannada"
+    },
+    "691": {
+        "channelID": 691,
+        "channel_name": "DD News HD"
+    },
+    "692": {
+        "channelID": 692,
+        "channel_name": "Colors Gujarati Cinema"
+    },
+    "693": {
+        "channelID": 693,
+        "channel_name": "Eurosport"
+    },
+    "694": {
+        "channelID": 694,
+        "channel_name": "Zee Keralam HD"
+    },
+    "696": {
+        "channelID": 696,
+        "channel_name": "R Bharat"
+    },
+    "697": {
+        "channelID": 697,
+        "channel_name": "Sun Bangla"
+    },
+    "698": {
+        "channelID": 698,
+        "channel_name": "INH 24X7"
+    },
+    "701": {
+        "channelID": 701,
+        "channel_name": "Jantantra TV"
+    },
+    "702": {
+        "channelID": 702,
+        "channel_name": "News J"
+    },
+    "706": {
+        "channelID": 706,
+        "channel_name": "TV9 Bharatvarsh"
+    },
+    "708": {
+        "channelID": 708,
+        "channel_name": "Jaya TV HD"
+    },
+    "723": {
+        "channelID": 723,
+        "channel_name": "Tamil Naaptol"
+    },
+    "727": {
+        "channelID": 727,
+        "channel_name": "Zee Classic"
+    },
+    "728": {
+        "channelID": 728,
+        "channel_name": "Subharti TV"
+    },
+    "729": {
+        "channelID": 729,
+        "channel_name": "B4U Bhojpuri"
+    },
+    "730": {
+        "channelID": 730,
+        "channel_name": "B4U Kadak"
+    },
+    "731": {
+        "channelID": 731,
+        "channel_name": "Manoranjan TV"
+    },
+    "733": {
+        "channelID": 733,
+        "channel_name": "Showbox"
+    },
+    "735": {
+        "channelID": 735,
+        "channel_name": "Tata Play Ibaadat"
+    },
+    "736": {
+        "channelID": 736,
+        "channel_name": "Tata Play Dance Studio."
+    },
+    "737": {
+        "channelID": 737,
+        "channel_name": "Tata Play Music"
+    },
+    "741": {
+        "channelID": 741,
+        "channel_name": "Tata Play Classic Cinema"
+    },
+    "742": {
+        "channelID": 742,
+        "channel_name": "Tata Play Aradhana"
+    },
+    "758": {
+        "channelID": 758,
+        "channel_name": "DD Arunprabha"
+    },
+    "772": {
+        "channelID": 772,
+        "channel_name": "Tata Play Gujarati Cinema"
+    },
+    "773": {
+        "channelID": 773,
+        "channel_name": "PTC Simran"
+    },
+    "774": {
+        "channelID": 774,
+        "channel_name": "4tv News"
+    },
+    "775": {
+        "channelID": 775,
+        "channel_name": "DIVYA"
+    },
+    "781": {
+        "channelID": 781,
+        "channel_name": "Prudent"
+    },
+    "782": {
+        "channelID": 782,
+        "channel_name": "Namma TV"
+    },
+    "783": {
+        "channelID": 783,
+        "channel_name": "Tata Play Seniors"
+    },
+    "785": {
+        "channelID": 785,
+        "channel_name": "Tata Play Kannada Cinema"
+    },
+    "787": {
+        "channelID": 787,
+        "channel_name": "ANB NEWS"
+    },
+    "788": {
+        "channelID": 788,
+        "channel_name": "Enterr10 Bangla"
+    },
+    "789": {
+        "channelID": 789,
+        "channel_name": "Tata Play Hollywood Local"
+    },
+    "790": {
+        "channelID": 790,
+        "channel_name": "Ek Onkar"
+    },
+    "791": {
+        "channelID": 791,
+        "channel_name": "Fateh TV"
+    },
+    "793": {
+        "channelID": 793,
+        "channel_name": "Living India News"
+    },
+    "794": {
+        "channelID": 794,
+        "channel_name": "PTC Punjabi Gold"
+    },
+    "796": {
+        "channelID": 796,
+        "channel_name": "Zee Punjabi"
+    },
+    "797": {
+        "channelID": 797,
+        "channel_name": "Zee Thirai"
+    },
+    "799": {
+        "channelID": 799,
+        "channel_name": "Twenty Four"
+    },
+    "800": {
+        "channelID": 800,
+        "channel_name": "Shemaroo MarathiBana"
+    },
+    "802": {
+        "channelID": 802,
+        "channel_name": "Studio One +"
+    },
+    "805": {
+        "channelID": 805,
+        "channel_name": "Nandighosha TV"
+    },
+    "807": {
+        "channelID": 807,
+        "channel_name": "In Goa 24x7"
+    },
+    "808": {
+        "channelID": 808,
+        "channel_name": "Tata Play Hits"
+    },
+    "810": {
+        "channelID": 810,
+        "channel_name": "Zee Picchar"
+    },
+    "811": {
+        "channelID": 811,
+        "channel_name": "Tata Play Adbhut Kahaniyan"
+    },
+    "812": {
+        "channelID": 812,
+        "channel_name": "Eurosport HD"
+    },
+    "814": {
+        "channelID": 814,
+        "channel_name": "Zee Biskope"
+    },
+    "816": {
+        "channelID": 816,
+        "channel_name": "CBeeBies"
+    },
+    "818": {
+        "channelID": 818,
+        "channel_name": "Shemaroo TV"
+    },
+    "819": {
+        "channelID": 819,
+        "channel_name": "RDX Goa"
+    },
+    "823": {
+        "channelID": 823,
+        "channel_name": "Goldmines"
+    },
+    "824": {
+        "channelID": 824,
+        "channel_name": "Power TV"
+    },
+    "826": {
+        "channelID": 826,
+        "channel_name": "Lokshahi Marathi"
+    },
+    "827": {
+        "channelID": 827,
+        "channel_name": "Sadhna Plus News"
+    },
+    "829": {
+        "channelID": 829,
+        "channel_name": "Sadhna News MP CG"
+    },
+    "830": {
+        "channelID": 830,
+        "channel_name": "Filamchi Bhojpuri"
+    },
+    "831": {
+        "channelID": 831,
+        "channel_name": "News India 24x7"
+    },
+    "833": {
+        "channelID": 833,
+        "channel_name": "DD Port Blair"
+    },
+    "837": {
+        "channelID": 837,
+        "channel_name": "Hare Krsna"
+    },
+    "838": {
+        "channelID": 838,
+        "channel_name": "Kashish News"
+    },
+    "840": {
+        "channelID": 840,
+        "channel_name": "Shirdi Sai Baba"
+    },
+    "841": {
+        "channelID": 841,
+        "channel_name": "Mahakaleshwar Temple, Ujjain"
+    },
+    "842": {
+        "channelID": 842,
+        "channel_name": "Somnath Temple"
+    },
+    "848": {
+        "channelID": 848,
+        "channel_name": "Network 10"
+    },
+    "849": {
+        "channelID": 849,
+        "channel_name": "Kashi Vishwanath Temple, Varanasi"
+    },
+    "865": {
+        "channelID": 865,
+        "channel_name": "Bangla Bhakti"
+    },
+    "866": {
+        "channelID": 866,
+        "channel_name": "Tara News"
+    },
+    "867": {
+        "channelID": 867,
+        "channel_name": "Gubbare"
+    },
+    "868": {
+        "channelID": 868,
+        "channel_name": "Tata Play Malayalam Cinema"
+    },
+    "870": {
+        "channelID": 870,
+        "channel_name": "Jan TV"
+    },
+    "872": {
+        "channelID": 872,
+        "channel_name": "Tata Play Astro Duniya"
+    },
+    "873": {
+        "channelID": 873,
+        "channel_name": "TV9 Bangla"
+    },
+    "883": {
+        "channelID": 883,
+        "channel_name": "Swar Shree"
+    },
+    "887": {
+        "channelID": 887,
+        "channel_name": "Garv Gurbani"
+    },
+    "888": {
+        "channelID": 888,
+        "channel_name": "Ishara"
+    },
+    "890": {
+        "channelID": 890,
+        "channel_name": "Republic Bangla"
+    },
+    "892": {
+        "channelID": 892,
+        "channel_name": "Samara News"
+    },
+    "893": {
+        "channelID": 893,
+        "channel_name": "Tata Play Valam TV"
+    },
+    "894": {
+        "channelID": 894,
+        "channel_name": "NKTV PLUS"
+    },
+    "896": {
+        "channelID": 896,
+        "channel_name": "Colors Bangla Cinema"
+    },
+    "898": {
+        "channelID": 898,
+        "channel_name": "Hornbill TV"
+    },
+    "899": {
+        "channelID": 899,
+        "channel_name": "Pasand"
+    },
+    "902": {
+        "channelID": 902,
+        "channel_name": "News 24 Madhyapradesh Chattisgarh"
+    },
+    "905": {
+        "channelID": 905,
+        "channel_name": "ETV Bal Bharat"
+    },
+    "906": {
+        "channelID": 906,
+        "channel_name": "Vijay Takkar"
+    },
+    "907": {
+        "channelID": 907,
+        "channel_name": "Argus News"
+    },
+    "910": {
+        "channelID": 910,
+        "channel_name": "C News Bharat"
+    },
+    "911": {
+        "channelID": 911,
+        "channel_name": "Santwani"
+    },
+    "912": {
+        "channelID": 912,
+        "channel_name": "Haryana Beats"
+    },
+    "913": {
+        "channelID": 913,
+        "channel_name": "News 1st Kannada"
+    },
+    "914": {
+        "channelID": 914,
+        "channel_name": "SONY SPORTS TEN 4"
+    },
+    "922": {
+        "channelID": 922,
+        "channel_name": "PTC Music"
+    },
+    "928": {
+        "channelID": 928,
+        "channel_name": "Tata Play NEET Prep"
+    },
+    "929": {
+        "channelID": 929,
+        "channel_name": "Tata Play JEE Prep"
+    },
+    "930": {
+        "channelID": 930,
+        "channel_name": "Buletin India"
+    },
+    "931": {
+        "channelID": 931,
+        "channel_name": "Green Chillies TV"
+    },
+    "932": {
+        "channelID": 932,
+        "channel_name": "Times Now Navbharat HD"
+    },
+    "933": {
+        "channelID": 933,
+        "channel_name": "Asianet Movies"
+    },
+    "935": {
+        "channelID": 935,
+        "channel_name": "Awakening"
+    },
+    "937": {
+        "channelID": 937,
+        "channel_name": "Anaadi TV"
+    },
+    "940": {
+        "channelID": 940,
+        "channel_name": "SIRIKANNADA Alltime"
+    },
+    "943": {
+        "channelID": 943,
+        "channel_name": "Tata Play Videshi Kahaniyan"
+    },
+    "947": {
+        "channelID": 947,
+        "channel_name": "Live Patna Sahib Patna"
+    },
+    "949": {
+        "channelID": 949,
+        "channel_name": "Live Sri Naga Sai Mandir Coimbatore"
+    },
+    "950": {
+        "channelID": 950,
+        "channel_name": "ET Now Swadesh"
+    },
+    "953": {
+        "channelID": 953,
+        "channel_name": "Asianet Plus"
+    },
+    "954": {
+        "channelID": 954,
+        "channel_name": "Star Maa Gold"
+    },
+    "955": {
+        "channelID": 955,
+        "channel_name": "Sun Marathi"
+    },
+    "956": {
+        "channelID": 956,
+        "channel_name": "STAR Maa HD"
+    },
+    "957": {
+        "channelID": 957,
+        "channel_name": "Star Maa Movies HD"
+    },
+    "959": {
+        "channelID": 959,
+        "channel_name": "Tata Play Romance"
+    },
+    "960": {
+        "channelID": 960,
+        "channel_name": "Atmadarshan"
+    },
+    "962": {
+        "channelID": 962,
+        "channel_name": "ANN News"
+    },
+    "964": {
+        "channelID": 964,
+        "channel_name": "Tata Play Classic TV"
+    },
+    "965": {
+        "channelID": 965,
+        "channel_name": "Manoranjan Grand"
+    },
+    "966": {
+        "channelID": 966,
+        "channel_name": "Times Now Navbharat"
+    },
+    "968": {
+        "channelID": 968,
+        "channel_name": "News Tamil 24x7"
+    },
+    "969": {
+        "channelID": 969,
+        "channel_name": "Aadinath TV"
+    },
+    "970": {
+        "channelID": 970,
+        "channel_name": "MH One Dil Se"
+    },
+    "971": {
+        "channelID": 971,
+        "channel_name": "SVBC 3"
+    },
+    "972": {
+        "channelID": 972,
+        "channel_name": "Khabar Fast"
+    },
+    "973": {
+        "channelID": 973,
+        "channel_name": "Sahara Samay UP-UKD"
+    },
+    "974": {
+        "channelID": 974,
+        "channel_name": "1st Gujarat"
+    },
+    "976": {
+        "channelID": 976,
+        "channel_name": "NHK World Japan"
+    },
+    "977": {
+        "channelID": 977,
+        "channel_name": "ND24-Newsdaily.in"
+    },
+    "978": {
+        "channelID": 978,
+        "channel_name": "Sidharth TV"
+    },
+    "980": {
+        "channelID": 980,
+        "channel_name": "Sports 18 - 1"
+    },
+    "985": {
+        "channelID": 985,
+        "channel_name": "Pravah Picture"
+    },
+    "986": {
+        "channelID": 986,
+        "channel_name": "Tata Play Zindagi"
+    },
+    "987": {
+        "channelID": 987,
+        "channel_name": "Star Kiran"
+    },
+    "988": {
+        "channelID": 988,
+        "channel_name": "Har Khabar"
+    },
+    "989": {
+        "channelID": 989,
+        "channel_name": "STV Haryana News"
+    },
+    "991": {
+        "channelID": 991,
+        "channel_name": "DD Meghalaya"
+    },
+    "994": {
+        "channelID": 994,
+        "channel_name": "Tata Play Toons+"
+    },
+    "995": {
+        "channelID": 995,
+        "channel_name": "Tata Play Toons+"
+    },
+    "996": {
+        "channelID": 996,
+        "channel_name": "Tata Play Toons+"
+    },
+    "997": {
+        "channelID": 997,
+        "channel_name": "Tata Play Toons+"
+    },
+    "998": {
+        "channelID": 998,
+        "channel_name": "Tata Play Toons+"
+    },
+    "999": {
+        "channelID": 999,
+        "channel_name": "Tata Play Toons+"
+    },
+    "1000": {
+        "channelID": 1000,
+        "channel_name": "Colors Cineplex Bollywood"
+    },
+    "1002": {
+        "channelID": 1002,
+        "channel_name": "Saileela TV"
+    },
+    "1003": {
+        "channelID": 1003,
+        "channel_name": "Tata Play South Talkies"
+    },
+    "1004": {
+        "channelID": 1004,
+        "channel_name": "Shri Ganga Aarti, Varanasi"
+    },
+    "1005": {
+        "channelID": 1005,
+        "channel_name": "Shri Babulnaath Temple, Mumbai"
+    },
+    "1006": {
+        "channelID": 1006,
+        "channel_name": "Shri Mahalaxmi Temple, Mumbai"
+    },
+    "1007": {
+        "channelID": 1007,
+        "channel_name": "Shri Ashtavinayak Mahaganpati, Ranjangaon"
+    },
+    "1008": {
+        "channelID": 1008,
+        "channel_name": "Shri ISKCON Girgaon, Mumbai"
+    },
+    "1009": {
+        "channelID": 1009,
+        "channel_name": "TV27 News"
+    },
+    "1010": {
+        "channelID": 1010,
+        "channel_name": "Bharat 24"
+    },
+    "1018": {
+        "channelID": 1018,
+        "channel_name": "Real News Kerala"
+    },
+    "1019": {
+        "channelID": 1019,
+        "channel_name": "7x Music"
+    },
+    "1023": {
+        "channelID": 1023,
+        "channel_name": "Daiji World TV"
+    },
+    "1025": {
+        "channelID": 1025,
+        "channel_name": "Colors Cineplex Superhits"
+    },
+    "1026": {
+        "channelID": 1026,
+        "channel_name": "Sidharth Bhakti"
+    },
+    "1027": {
+        "channelID": 1027,
+        "channel_name": "Swatantra TV"
+    },
+    "1030": {
+        "channelID": 1030,
+        "channel_name": "Foodxp"
+    },
+    "1031": {
+        "channelID": 1031,
+        "channel_name": "Surya Samachar"
+    },
+    "1032": {
+        "channelID": 1032,
+        "channel_name": "Sansad TV 2 HD"
+    },
+    "1033": {
+        "channelID": 1033,
+        "channel_name": "Sports 18 - 1 HD"
+    },
+    "1040": {
+        "channelID": 1040,
+        "channel_name": "Jansetu"
+    },
+    "1042": {
+        "channelID": 1042,
+        "channel_name": "Bless TV"
+    },
+    "1043": {
+        "channelID": 1043,
+        "channel_name": "Nakshatra Digital"
+    },
+    "1044": {
+        "channelID": 1044,
+        "channel_name": "Global India"
+    },
+    "1045": {
+        "channelID": 1045,
+        "channel_name": "Shemaroo UMANG"
+    },
+    "1047": {
+        "channelID": 1047,
+        "channel_name": "SPONDON"
+    },
+    "1051": {
+        "channelID": 1051,
+        "channel_name": "Bharat Express"
+    },
+    "1053": {
+        "channelID": 1053,
+        "channel_name": "Asian News"
+    },
+    "1056": {
+        "channelID": 1056,
+        "channel_name": "Tata Play Har Ghar Startup"
+    },
+    "1058": {
+        "channelID": 1058,
+        "channel_name": "Aaj Ki Khabar"
+    },
+    "1059": {
+        "channelID": 1059,
+        "channel_name": "Indian News"
+    },
+    "1060": {
+        "channelID": 1060,
+        "channel_name": "Live Punjabi"
+    },
+    "1066": {
+        "channelID": 1066,
+        "channel_name": "Disney Channel HD"
+    },
+    "1067": {
+        "channelID": 1067,
+        "channel_name": "Star Sports 1 Tamil HD"
+    },
+    "1068": {
+        "channelID": 1068,
+        "channel_name": "Star Sports 1 Telugu HD"
+    },
+    "1069": {
+        "channelID": 1069,
+        "channel_name": "Star Movies Select"
+    },
+    "1070": {
+        "channelID": 1070,
+        "channel_name": "MEDIA 9"
+    },
+    "1072": {
+        "channelID": 1072,
+        "channel_name": "Star Gold 2 HD"
+    },
+    "1073": {
+        "channelID": 1073,
+        "channel_name": "Tata Play Telugu Classics"
+    },
+    "1074": {
+        "channelID": 1074,
+        "channel_name": "TV 24"
+    },
+    "1075": {
+        "channelID": 1075,
+        "channel_name": "Sach Bedhadak"
+    },
+    "1076": {
+        "channelID": 1076,
+        "channel_name": "NB News"
+    },
+    "1078": {
+        "channelID": 1078,
+        "channel_name": "Daily Post Punjab Haryana Himachal"
+    },
+    "1079": {
+        "channelID": 1079,
+        "channel_name": "TTN 24"
+    },
+    "1080": {
+        "channelID": 1080,
+        "channel_name": "U Bangla TV"
+    },
+    "1082": {
+        "channelID": 1082,
+        "channel_name": "Tata Play Asomiya Monoronjan"
+    },
+    "1084": {
+        "channelID": 1084,
+        "channel_name": "India Daily Live"
+    },
+    "1092": {
+        "channelID": 1092,
+        "channel_name": "Test Service 4101"
+    },
+    "1097": {
+        "channelID": 1097,
+        "channel_name": "Aastha Gujarati"
+    },
+    "1099": {
+        "channelID": 1099,
+        "channel_name": "Prime9 Plus"
+    },
+    "1100": {
+        "channelID": 1100,
+        "channel_name": "BIG TV Telugu"
+    },
+    "1102": {
+        "channelID": 1102,
+        "channel_name": "Pudhari News"
+    },
+    "1115": {
+        "channelID": 1115,
+        "channel_name": "Pratham Khabar 24x7"
+    },
+    "1124": {
+        "channelID": 1124,
+        "channel_name": "Reporter TV"
+    },
+    "1130": {
+        "channelID": 1130,
+        "channel_name": "Tata Play Bollywood Masala"
+    },
+    "1132": {
+        "channelID": 1132,
+        "channel_name": "Rongeen TV"
+    },
+    "1135": {
+        "channelID": 1135,
+        "channel_name": "Vanitha"
+    },
+    "1136": {
+        "channelID": 1136,
+        "channel_name": "Bloomberg Television"
+    },
+    "1151": {
+        "channelID": 1151,
+        "channel_name": "MAHAA NEWS"
+    },
+    "1152": {
+        "channelID": 1152,
+        "channel_name": "NDTV Rajasthan"
+    },
+    "1159": {
+        "channelID": 1159,
+        "channel_name": "NDTV MPCG"
+    },
+    "1164": {
+        "channelID": 1164,
+        "channel_name": "Unique TV"
+    },
+    "1165": {
+        "channelID": 1165,
+        "channel_name": "Raapchik"
+    },
+    "1167": {
+        "channelID": 1167,
+        "channel_name": "Tata Play Hollywood Local Tamil"
+    },
+    "1168": {
+        "channelID": 1168,
+        "channel_name": "Tata Play Hollywood Local Telugu"
+    },
+    "1169": {
+        "channelID": 1169,
+        "channel_name": "Jay Jagannath."
+    },
+    "1170": {
+        "channelID": 1170,
+        "channel_name": "Sidharth GOLD"
+    },
+    "1171": {
+        "channelID": 1171,
+        "channel_name": "Shree Ichchhapuran Balaji Mandir"
+    },
+    "1173": {
+        "channelID": 1173,
+        "channel_name": "Asianet Movies HD"
+    },
+    "1174": {
+        "channelID": 1174,
+        "channel_name": "Star Kiran HD"
+    },
+    "1175": {
+        "channelID": 1175,
+        "channel_name": "Star Pravah Pictures HD"
+    },
+    "1176": {
+        "channelID": 1176,
+        "channel_name": "Vijay Super HD"
+    },
+    "1181": {
+        "channelID": 1181,
+        "channel_name": "Zee Picchar HD"
+    },
+    "1182": {
+        "channelID": 1182,
+        "channel_name": "Zee Thirai HD"
+    },
+    "1183": {
+        "channelID": 1183,
+        "channel_name": "&Xplor HD"
+    },
+    "1184": {
+        "channelID": 1184,
+        "channel_name": "NAZARA"
+    },
+    "1186": {
+        "channelID": 1186,
+        "channel_name": "Sports 18 2"
+    },
+    "1187": {
+        "channelID": 1187,
+        "channel_name": "Sports 18 3"
+    },
+    "1188": {
+        "channelID": 1188,
+        "channel_name": "DD Jharkhand"
+    },
+    "1191": {
+        "channelID": 1191,
+        "channel_name": "DD Sports HD"
+    },
+    "1192": {
+        "channelID": 1192,
+        "channel_name": "Sony Sports Ten 4 HD"
+    },
+    "1194": {
+        "channelID": 1194,
+        "channel_name": "BRK News"
+    },
+    "1196": {
+        "channelID": 1196,
+        "channel_name": "Ekamra Bharat Odia"
+    },
+    "1197": {
+        "channelID": 1197,
+        "channel_name": "Ekamra Nilachakra"
+    },
+    "1198": {
+        "channelID": 1198,
+        "channel_name": "Ekamra Cynema"
+    },
+    "1199": {
+        "channelID": 1199,
+        "channel_name": "Ekamra  Music"
+    },
+    "1200": {
+        "channelID": 1200,
+        "channel_name": "Ekamra Jatra"
+    },
+    "1201": {
+        "channelID": 1201,
+        "channel_name": "Ekamra Paramatma"
+    },
+    "1202": {
+        "channelID": 1202,
+        "channel_name": "Ekamra One paschima"
+    },
+    "1203": {
+        "channelID": 1203,
+        "channel_name": "India 24x7"
+    },
+    "1204": {
+        "channelID": 1204,
+        "channel_name": "Kalinga Bharat"
+    },
+    "1205": {
+        "channelID": 1205,
+        "channel_name": "Omm"
+    },
+    "1206": {
+        "channelID": 1206,
+        "channel_name": "Ekamra Baiscope"
+    },
+    "1207": {
+        "channelID": 1207,
+        "channel_name": "Ekamra Manoranjan"
+    },
+    "1208": {
+        "channelID": 1208,
+        "channel_name": "News 8 odia"
+    },
+    "1209": {
+        "channelID": 1209,
+        "channel_name": "Ekamra snews"
+    },
+    "1210": {
+        "channelID": 1210,
+        "channel_name": "DD Tripura"
+    },
+    "1211": {
+        "channelID": 1211,
+        "channel_name": "DD Mizoram"
+    },
+    "1212": {
+        "channelID": 1212,
+        "channel_name": "DD Haryana"
+    },
+    "1213": {
+        "channelID": 1213,
+        "channel_name": "DD Uttarakhand"
+    },
+    "1214": {
+        "channelID": 1214,
+        "channel_name": "DD Nagaland"
+    },
+    "1215": {
+        "channelID": 1215,
+        "channel_name": "DD Goa"
+    },
+    "1216": {
+        "channelID": 1216,
+        "channel_name": "DD Chhattisgarh"
+    },
+    "1217": {
+        "channelID": 1217,
+        "channel_name": "DD Himachal"
+    },
+    "1218": {
+        "channelID": 1218,
+        "channel_name": "DD National HD"
+    },
+    "1219": {
+        "channelID": 1219,
+        "channel_name": "DD India HD"
+    },
+    "1221": {
+        "channelID": 1221,
+        "channel_name": "Sun Marathi HD"
+    },
+    "1222": {
+        "channelID": 1222,
+        "channel_name": "Sun Bangla HD"
+    },
+    "1242": {
+        "channelID": 1242,
+        "channel_name": "In24 News"
+    },
+    "1245": {
+        "channelID": 1245,
+        "channel_name": "National Today 24x7"
+    },
+    "1246": {
+        "channelID": 1246,
+        "channel_name": "Vande Bharat News"
+    },
+    "1247": {
+        "channelID": 1247,
+        "channel_name": "35 MM"
+    },
+    "1249": {
+        "channelID": 1249,
+        "channel_name": "6TV"
+    },
+    "1252": {
+        "channelID": 1252,
+        "channel_name": "Haryana Buzz"
+    },
+    "1253": {
+        "channelID": 1253,
+        "channel_name": "Jeewan Bhakti"
+    },
+    "1254": {
+        "channelID": 1254,
+        "channel_name": "National News Live"
+    },
+    "1255": {
+        "channelID": 1255,
+        "channel_name": "Update India"
+    },
+    "1256": {
+        "channelID": 1256,
+        "channel_name": "Oye Music"
+    },
+    "1257": {
+        "channelID": 1257,
+        "channel_name": "Sangam TV"
+    },
+    "1260": {
+        "channelID": 1260,
+        "channel_name": "Tata Play Tamil Classics"
+    },
+    "1267": {
+        "channelID": 1267,
+        "channel_name": "HNN News"
+    },
+    "1268": {
+        "channelID": 1268,
+        "channel_name": "NE NEWS"
+    },
+    "1269": {
+        "channelID": 1269,
+        "channel_name": "Chumbak TV"
+    },
+    "1274": {
+        "channelID": 1274,
+        "channel_name": "Swadesh News"
+    },
+    "1276": {
+        "channelID": 1276,
+        "channel_name": "Investigation Discovery HD"
+    },
+    "1277": {
+        "channelID": 1277,
+        "channel_name": "Nav Tej TV"
+    },
+    "1278": {
+        "channelID": 1278,
+        "channel_name": "Prime TV"
+    },
+    "1281": {
+        "channelID": 1281,
+        "channel_name": "Samachar 24 News"
+    },
+    "1284": {
+        "channelID": 1284,
+        "channel_name": "Sana Plus TV"
+    },
+    "1285": {
+        "channelID": 1285,
+        "channel_name": "Sana TV"
+    },
+    "1286": {
+        "channelID": 1286,
+        "channel_name": "News Capital"
+    },
+    "1287": {
+        "channelID": 1287,
+        "channel_name": "Zee Kannada News"
+    },
+    "1288": {
+        "channelID": 1288,
+        "channel_name": "Zee Telugu News"
+    },
+    "1290": {
+        "channelID": 1290,
+        "channel_name": "TVRI World"
+    },
+    "1301": {
+        "channelID": 1301,
+        "channel_name": "Tata Play 4K"
+    },
+    "1309": {
+        "channelID": 1309,
+        "channel_name": "SS1 HD Hindi Geo"
+    },
+    "1310": {
+        "channelID": 1310,
+        "channel_name": "SS 1 HD Geo"
+    },
+    "1311": {
+        "channelID": 1311,
+        "channel_name": "SS 1 Hindi Geo"
+    },
+    "1312": {
+        "channelID": 1312,
+        "channel_name": "SS 1 Geo"
+    },
+    "1313": {
+        "channelID": 1313,
+        "channel_name": "SHEKINAH"
+    },
+    "1315": {
+        "channelID": 1315,
+        "channel_name": "Vistaar News"
+    },
+    "1317": {
+        "channelID": 1317,
+        "channel_name": "Tamil Janam"
+    },
+    "1318": {
+        "channelID": 1318,
+        "channel_name": "Calvary TV"
+    },
+    "1321": {
+        "channelID": 1321,
+        "channel_name": "ALL Time MOVIES"
+    },
+    "1322": {
+        "channelID": 1322,
+        "channel_name": "Thanthi One"
+    },
+    "1324": {
+        "channelID": 1324,
+        "channel_name": "Raj Nagaichuvai"
+    },
+    "1330": {
+        "channelID": 1330,
+        "channel_name": "Raj Pariwar"
+    },
+    "1332": {
+        "channelID": 1332,
+        "channel_name": "AB STAR News"
+    },
+    "1333": {
+        "channelID": 1333,
+        "channel_name": "ABC News"
+    },
+    "1334": {
+        "channelID": 1334,
+        "channel_name": "KBC News"
+    },
+    "1335": {
+        "channelID": 1335,
+        "channel_name": "Shiksha TV"
+    },
+    "1336": {
+        "channelID": 1336,
+        "channel_name": "Shresthbharat TV"
+    },
+    "1337": {
+        "channelID": 1337,
+        "channel_name": "Sristi TV"
+    },
+    "1338": {
+        "channelID": 1338,
+        "channel_name": "TV 45 News"
+    },
+    "1339": {
+        "channelID": 1339,
+        "channel_name": "TNP News"
+    },
+    "1340": {
+        "channelID": 1340,
+        "channel_name": "ETV Bal Bharat HD"
+    },
+    "1341": {
+        "channelID": 1341,
+        "channel_name": "ETV Cinema HD"
+    },
+    "1342": {
+        "channelID": 1342,
+        "channel_name": "ETV Plus HD"
+    },
+    "1343": {
+        "channelID": 1343,
+        "channel_name": "NDTV MARATHI"
+    },
+    "1344": {
+        "channelID": 1344,
+        "channel_name": "Naxatra News"
+    },
+    "1349": {
+        "channelID": 1349,
+        "channel_name": "Tata Play Kartavya TV"
+    },
+    "1350": {
+        "channelID": 1350,
+        "channel_name": "Tata Play Lakshya TV"
+    },
+    "1351": {
+        "channelID": 1351,
+        "channel_name": "Tata Play Kalyan TV"
+    },
+    "1352": {
+        "channelID": 1352,
+        "channel_name": "Pear TV"
+    },
+    "1353": {
+        "channelID": 1353,
+        "channel_name": "DA News Plus"
+    },
+    "1363": {
+        "channelID": 1363,
+        "channel_name": "Tata Play Anime Local"
+    },
+    "1364": {
+        "channelID": 1364,
+        "channel_name": "Powervision"
+    },
+    "1367": {
+        "channelID": 1367,
+        "channel_name": "News Malayalam 24x7"
+    },
+    "1368": {
+        "channelID": 1368,
+        "channel_name": "Sansad TV 1 HD"
+    },
+    "1369": {
+        "channelID": 1369,
+        "channel_name": "Sun Neo"
+    },
+    "1370": {
+        "channelID": 1370,
+        "channel_name": "Sun Neo HD"
+    },
+    "1371": {
+        "channelID": 1371,
+        "channel_name": "BVG"
+    },
+    "1372": {
+        "channelID": 1372,
+        "channel_name": "Bhaktisagar"
+    },
+    "1376": {
+        "channelID": 1376,
+        "channel_name": "BS TV"
+    },
+    "1378": {
+        "channelID": 1378,
+        "channel_name": "Nireekshana TV"
+    },
+    "1379": {
+        "channelID": 1379,
+        "channel_name": "Bharat Times News"
+    },
+    "1380": {
+        "channelID": 1380,
+        "channel_name": "News 21"
+    },
+    "1381": {
+        "channelID": 1381,
+        "channel_name": "ANANDHAM TV"
+    },
+    "1382": {
+        "channelID": 1382,
+        "channel_name": "DHARSAN TV"
+    },
+    "1383": {
+        "channelID": 1383,
+        "channel_name": "NIJAM TV"
+    },
+    "1384": {
+        "channelID": 1384,
+        "channel_name": "SURIYAN TV"
+    },
+    "1385": {
+        "channelID": 1385,
+        "channel_name": "SUBIN TV"
+    },
+    "1386": {
+        "channelID": 1386,
+        "channel_name": "NTV"
+    },
+    "1387": {
+        "channelID": 1387,
+        "channel_name": "R TV"
+    },
+    "1388": {
+        "channelID": 1388,
+        "channel_name": "UTV"
+    },
+    "1389": {
+        "channelID": 1389,
+        "channel_name": "Mahaa Max"
+    },
+    "1390": {
+        "channelID": 1390,
+        "channel_name": "Tata Play Superhits Serials"
+    },
+    "1391": {
+        "channelID": 1391,
+        "channel_name": "Bhakthi Siri"
+    },
+    "1392": {
+        "channelID": 1392,
+        "channel_name": "Sadvidya"
+    },
+    "1393": {
+        "channelID": 1393,
+        "channel_name": "In24 Live News"
+    },
+    "1395": {
+        "channelID": 1395,
+        "channel_name": "Live Times"
+    },
+    "1400": {
+        "channelID": 1400,
+        "channel_name": "Sadhna Prime News"
+    },
+    "1407": {
+        "channelID": 1407,
+        "channel_name": "India TV Speed News HD"
+    },
+    "1411": {
+        "channelID": 1411,
+        "channel_name": "News State Punjab Haryana Himachal"
+    },
+    "1413": {
+        "channelID": 1413,
+        "channel_name": "HIFF Movies"
+    },
+    "1414": {
+        "channelID": 1414,
+        "channel_name": "DKP News"
+    },
+    "1415": {
+        "channelID": 1415,
+        "channel_name": "VST India"
+    },
+    "1442": {
+        "channelID": 1442,
+        "channel_name": "TV 100"
+    },
+    "1444": {
+        "channelID": 1444,
+        "channel_name": "Tata Play Marathi Classics"
+    },
+    "1445": {
+        "channelID": 1445,
+        "channel_name": "Tar TV"
+    },
+    "1446": {
+        "channelID": 1446,
+        "channel_name": "Sanmarg TV"
+    },
+    "1447": {
+        "channelID": 1447,
+        "channel_name": "Garvi Gujarat Gujarati"
+    },
+    "1448": {
+        "channelID": 1448,
+        "channel_name": "24Hrs TV"
+    },
+    "1449": {
+        "channelID": 1449,
+        "channel_name": "Manoranjan Prime"
+    },
+    "1450": {
+        "channelID": 1450,
+        "channel_name": "OSD Binge 1"
+    },
+    "1451": {
+        "channelID": 1451,
+        "channel_name": "OSD Binge 2"
+    },
+    "1452": {
+        "channelID": 1452,
+        "channel_name": "OSD Binge 3"
+    },
+    "1453": {
+        "channelID": 1453,
+        "channel_name": "OSD Binge 4"
+    },
+    "1454": {
+        "channelID": 1454,
+        "channel_name": "OSD Binge 5"
+    },
+    "1458": {
+        "channelID": 1458,
+        "channel_name": "News 9"
+    },
+    "1459": {
+        "channelID": 1459,
+        "channel_name": "Tata Play Deiveegam"
+    }
 }
