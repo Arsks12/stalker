@@ -4392,6 +4392,31 @@
         "is_hmac_required": true
       },
       {
+        "id": "1787",
+        "name": "Tata Play Cartoon Network Forever",
+        "primaryGenre": "Kids",
+        "genres": [
+            "Cartoons",
+            "Kids"
+        ],
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "logo_url": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/TataPlayCartoonNetworkForever_Thumbnail_edf800a9-9bbb-4e12-8b63-09970f96d63c.png",
+        "manifest_url": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_2298/output/Manifest.mpd",
+        "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001722",
+        "manifest_headers": {
+            "Origin": "https://watch.tataplay.com",
+            "Referer": "https://watch.tataplay.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"
+        },
+        "manifest_type": "DASH",
+        "is_catchup_available": true,
+        "is_drm_protected": true,
+        "is_hmac_required": true
+      },
+      {
         "id": "119",
         "name": "Discovery Kids",
         "primaryGenre": "Kids",
