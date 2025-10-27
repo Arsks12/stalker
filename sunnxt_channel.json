@@ -2,9 +2,14 @@
   "channel": "https://t.me/XtronXHub",
   "developers": "Hinatax",
   "title": "SUNNXT | CHANNEL API",
-  "total_channels": 56,
-  "lastupdated": "2025-05-12 16:39:00",
+  "total_channels": 44,
+  "lastupdated": "2025-10-27 16:08:05",
   "data": [
+    {
+      "id": "195491",
+      "title": "Sun TV HD - Dolby Vision",
+      "logo": "https://sund-images.sunnxt.com/195491/200x200_SunTVHDDolbyVision_195491_acb12579-8d0f-41c2-bbb7-0b10a8dcee1a.jpg"
+    },
     {
       "id": "194403",
       "title": "Sun TV HD",
@@ -57,7 +62,7 @@
     },
     {
       "id": "195490",
-      "title": "Gemini TV HD Dolby Vision",
+      "title": "Gemini TV HD - Dolby Vision",
       "logo": "https://sund-images.sunnxt.com/195490/200x200_GeminiTVHDDolbyVision_195490_38c3f39f-992b-4164-abd7-89fbae701e79.jpg"
     },
     {
@@ -111,6 +116,11 @@
       "logo": "https://sund-images.sunnxt.com/194395/200x200_GeminiMusic_194395_9b2cc3b0-9732-4bf8-9efc-fed04d9bc9df.png"
     },
     {
+      "id": "195489",
+      "title": "Surya TV HD - Dolby Vision",
+      "logo": "https://sund-images.sunnxt.com/195489/200x200_SuryaTVHDDolbyVision_195489_e28c6a6b-932f-4ed5-a0f1-d161dbbf55d3.jpg"
+    },
+    {
       "id": "194397",
       "title": "Surya TV HD",
       "logo": "https://sund-images.sunnxt.com/194397/200x200_SuryaTVHD_194397_4c99c17b-92d4-49be-a490-b5958067190a.png"
@@ -146,13 +156,8 @@
       "logo": "https://sund-images.sunnxt.com/194398/200x200_SuryaTV_194398_010180e7-db04-4e2a-9b57-c81dfee73222.png"
     },
     {
-      "id": "195489",
-      "title": "Surya TV HD Dolby Vision",
-      "logo": "https://sund-images.sunnxt.com/195489/200x200_SuryaTVHDDolbyVision_195489_e28c6a6b-932f-4ed5-a0f1-d161dbbf55d3.jpg"
-    },
-    {
       "id": "194411",
-      "title": "Udaya TV HD Dolby Vision",
+      "title": "Udaya TV HD - Dolby Vision",
       "logo": "https://sund-images.sunnxt.com/194411/200x200_UdayaTVHDDolbyVision_194411_289bee82-3de3-4cd1-81ea-1634f46e137e.jpg"
     },
     {
@@ -191,6 +196,11 @@
       "logo": "https://sund-images.sunnxt.com/194347/200x200_ChintuTV_194347_59b6772c-5303-4eb8-9538-2b99f3956eed.png"
     },
     {
+      "id": "193239",
+      "title": "Udaya TV",
+      "logo": "https://sund-images.sunnxt.com/193239/200x200_UdayaTV_193239_ec435a3b-aad0-44e1-9c70-fc572199add9.png"
+    },
+    {
       "id": "194389",
       "title": "Sun Neo HD",
       "logo": "https://sund-images.sunnxt.com/194389/200x200_SunNeoHD_194389_4cb7110f-1c29-47de-ac4e-2bddf10683cf.png"
@@ -216,4 +226,4 @@
       "logo": "https://sund-images.sunnxt.com/207724/200x200_News9_207724_496f7306-0833-48b2-95a9-e80160120e4f.png"
     }
   ]
-} 
+}
