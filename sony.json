@@ -5,7 +5,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
         "genre": "Entertainment",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011671/SETHD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011671/SETHD/master.m3u8"
     },
     "sony-sab-hd": {
         "id": "sony-sab-hd",
@@ -13,7 +13,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
         "genre": "Entertainment",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011749/SABHD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011749/SABHD/master.m3u8"
     },
     "sony-marathi": {
         "id": "sony-marathi",
@@ -21,7 +21,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
         "genre": "Entertainment",
         "language": "Marathi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011740/SonyMarathi/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011740/SonyMarathi/master.m3u8"
     },
     "sony-pal": {
         "id": "sony-pal",
@@ -29,7 +29,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
         "genre": "Entertainment",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011741/SonyPalSD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011741/SonyPalSD/master.m3u8"
     },
     "sony-kal": {
         "id": "sony-kal",
@@ -45,7 +45,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",
         "genre": "Entertainment",
         "language": "Bengali",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011641/SonyAathSD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011641/SonyAathSD/master.m3u8"
     },
     "sony-yay": {
         "id": "sony-yay",
@@ -53,7 +53,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
         "genre": "Kids",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011746/SonyYaySD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011746/SonyYaySD/master.m3u8"
     },
     "sony-max-hd": {
         "id": "sony-max-hd",
@@ -61,7 +61,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
         "genre": "Movies",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011670/SonyMaxhd/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011670/SonyMaxhd/master.m3u8"
     },
     "sony-max": {
         "id": "sony-max",
@@ -69,7 +69,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
         "genre": "Movies",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011745/SonyMaxSD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011745/SonyMaxSD/master.m3u8"
     },
     "sony-max-2": {
         "id": "sony-max-2",
@@ -77,7 +77,7 @@
         "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
         "genre": "Movies",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011908/MAX2/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011908/MAX2/master.m3u8"
     },
     "sony-wah": {
         "id": "sony-wah",
@@ -85,7 +85,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",
         "genre": "Movies",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011906/SonyWah/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011906/SonyWah/master.m3u8"
     },
     "sony-pix-hd": {
         "id": "sony-pix-hd",
@@ -93,7 +93,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",
         "genre": "Movies",
         "language": "English",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011748/PIXHD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011748/PIXHD/master.m3u8"
     },
     "sony-bbc-earth-hd": {
         "id": "sony-bbc-earth-hd",
@@ -101,7 +101,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",
         "genre": "Infotainment",
         "language": "English",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011907/SonyBBCEarthHD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011907/SonyBBCEarthHD/master.m3u8"
     },
     "sony-ten-1": {
         "id": "sony-ten-1",
@@ -109,7 +109,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
         "genre": "Sports",
         "language": "English",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2011739/TEN1SD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2011739/TEN1SD/master.m3u8"
     },
     "sony-ten-2": {
         "id": "sony-ten-2",
@@ -117,7 +117,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
         "genre": "Sports",
         "language": "English",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2020590/TEN2SD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2020590/TEN2SD/master.m3u8"
     },
     "sony-ten-3": {
         "id": "sony-ten-3",
@@ -125,7 +125,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
         "genre": "Sports",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2020592/TEN3SD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2020592/TEN3SD/master.m3u8"
     },
     "sony-ten-4": {
         "id": "sony-ten-4",
@@ -133,7 +133,7 @@
         "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
         "genre": "Sports",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2020437/ten4sd/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2020437/ten4sd/master.m3u8"
     },
     "sony-ten-5": {
         "id": "sony-ten-5",
@@ -141,7 +141,7 @@
         "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
         "genre": "Sports",
         "language": "English",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2020594/SONYSIXSD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2020594/SONYSIXSD/master.m3u8"
     },
     "sony-ten-1-hd": {
         "id": "sony-ten-1-hd",
@@ -149,7 +149,7 @@
         "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
         "genre": "Sports",
         "language": "English",
-        "m3u8": "https://dishmt.joker-verse.workers.dev//hls/live/2011747/TEN1HD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev//hls/live/2011747/TEN1HD/master.m3u8"
     },
     "sony-ten-2-hd": {
         "id": "sony-ten-2-hd",
@@ -157,7 +157,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
         "genre": "Sports",
         "language": "English",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2020434/TEN2HD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2020434/TEN2HD/master.m3u8"
     },
     "sony-ten-3-hd": {
         "id": "sony-ten-3-hd",
@@ -165,7 +165,7 @@
         "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
         "genre": "Sports",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2020591/TEN3HD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2020591/TEN3HD/master.m3u8"
     },
     "sony-ten-4-hd": {
         "id": "sony-ten-4-hd",
@@ -173,7 +173,7 @@
         "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
         "genre": "Sports",
         "language": "Hindi",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2020589/ten4hd/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2020589/ten4hd/master.m3u8"
     },
     "sony-ten-5-hd": {
         "id": "sony-ten-5-hd",
@@ -181,6 +181,6 @@
         "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
         "genre": "Sports",
         "language": "English",
-        "m3u8": "https://dishmt.joker-verse.workers.dev/hls/live/2020593/SONYSIXHD/master.m3u8"
+        "m3u8": "https://dishmt-new.joker-verse.workers.dev/hls/live/2020593/SONYSIXHD/master.m3u8"
     }
 }
