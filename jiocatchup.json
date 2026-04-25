@@ -6,6 +6,11 @@
         "key": "5360e12d4bb2519a9148d1089a55908d:7e8f500cef51595f3d43acafab1a8fb4"
     },
     {
+        "channel_id": 872,
+        "channel_name": "Sony Yay Hindi",
+        "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVCatchup/index.mpd"
+        "key": "271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517"
+    {
         "channel_id": 146,
         "channel_name": "History TV18 HD",
         "mpd_url": "https://jiotvcod.cdn.jio.com/bpk-tv/History_HD_MOB/WDVCatchup/index.mpd",
