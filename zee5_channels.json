@@ -1,0 +1,346 @@
+[
+    {
+        "name": "&Pictures",
+        "id": "0-9-pictures"
+    },
+    {
+        "name": "&Pictures HD",
+        "id": "0-9-tvpictureshd"
+    },
+    {
+        "name": "&TV HD",
+        "id": "0-9-tvhd_0"
+    },
+    {
+        "name": "&flix HD",
+        "id": "0-9-channel_2105335046"
+    },
+    {
+        "name": "&xplorHD",
+        "id": "0-9-209"
+    },
+    {
+        "name": "Aaj Tak",
+        "id": "0-9-aajtak"
+    },
+    {
+        "name": "Anmol Cinema",
+        "id": "0-9-zeeanmolcinema"
+    },
+    {
+        "name": "Anmol Cinema 2",
+        "id": "0-9-bigganga"
+    },
+    {
+        "name": "Anmol TV",
+        "id": "0-9-zeeanmol"
+    },
+    {
+        "name": "Aur Sunao ",
+        "id": "0-6-4z5731293"
+    },
+    {
+        "name": "Big Magic",
+        "id": "0-9-bigmagic_1786965389"
+    },
+    {
+        "name": "Dagdusheth Halwai Ganpati Mandir",
+        "id": "0-9-9z5938345"
+    },
+    {
+        "name": "Good News Today",
+        "id": "0-9-255"
+    },
+    {
+        "name": "Headline Hungama",
+        "id": "0-6-4z5708167"
+    },
+    {
+        "name": "India Today",
+        "id": "0-9-indiatoday"
+    },
+    {
+        "name": "India Today ",
+        "id": "0-101-10z5588214"
+    },
+    {
+        "name": "Iskcon Vrindavan",
+        "id": "0-9-9z5938346"
+    },
+    {
+        "name": "Kashi Vishwanath",
+        "id": "0-9-9z5938349"
+    },
+    {
+        "name": "Ma Naina Devi",
+        "id": "0-9-9z5938347"
+    },
+    {
+        "name": "Mahavir Mandir Patna",
+        "id": "0-9-9z5938351"
+    },
+    {
+        "name": "Mic Check",
+        "id": "0-6-4z5700880"
+    },
+    {
+        "name": "NDTV 24x7",
+        "id": "0-101-10z5950505"
+    },
+    {
+        "name": "NDTV 24x7",
+        "id": "0-9-9z5942782"
+    },
+    {
+        "name": "NDTV India",
+        "id": "0-9-9z5942783"
+    },
+    {
+        "name": "NDTV Marathi ",
+        "id": "0-9-9z5942785"
+    },
+    {
+        "name": "NDTV Profit",
+        "id": "0-101-10z5943989"
+    },
+    {
+        "name": "NDTV Profit",
+        "id": "0-9-9z5942784"
+    },
+    {
+        "name": "News 9",
+        "id": "0-101-10z5837142"
+    },
+    {
+        "name": "News 9",
+        "id": "0-9-261"
+    },
+    {
+        "name": "Patna Sahib",
+        "id": "0-9-9z5946518"
+    },
+    {
+        "name": "Sai Baba, Shirdi",
+        "id": "0-9-9z5938343"
+    },
+    {
+        "name": "Salaam TV",
+        "id": "0-9-zeesalaam"
+    },
+    {
+        "name": "Shree Naga Sai  Temple - Coimbatore",
+        "id": "0-9-9z5946519"
+    },
+    {
+        "name": "Somnath Temple",
+        "id": "0-9-9z5938348"
+    },
+    {
+        "name": "TV9 Bangla",
+        "id": "0-9-378"
+    },
+    {
+        "name": "TV9 Bharatvarsh",
+        "id": "0-9-251"
+    },
+    {
+        "name": "TV9 Gujarati",
+        "id": "0-9-260"
+    },
+    {
+        "name": "TV9 Kannada",
+        "id": "0-9-259"
+    },
+    {
+        "name": "TV9 Marathi",
+        "id": "0-9-257"
+    },
+    {
+        "name": "TV9 Telugu",
+        "id": "0-9-258"
+    },
+    {
+        "name": "WION",
+        "id": "0-101-10z5662757"
+    },
+    {
+        "name": "WION",
+        "id": "0-9-wion"
+    },
+    {
+        "name": "ZEE News Malayalam",
+        "id": "0-9-9z583539"
+    },
+    {
+        "name": "ZEE News Tamil",
+        "id": "0-9-9z583533"
+    },
+    {
+        "name": "Zee 24 Ghanta",
+        "id": "0-9-24ghantatv"
+    },
+    {
+        "name": "Zee 24 Kalak",
+        "id": "0-9-zee24kalak"
+    },
+    {
+        "name": "Zee 24 Taas",
+        "id": "0-9-zee24taas"
+    },
+    {
+        "name": "Zee Action",
+        "id": "0-9-zeeaction"
+    },
+    {
+        "name": "Zee Bangla",
+        "id": "0-9-9z5383484"
+    },
+    {
+        "name": "Zee Bangla HD",
+        "id": "0-9-zeebangla"
+    },
+    {
+        "name": "Zee Bharat",
+        "id": "0-9-zeehindustan"
+    },
+    {
+        "name": "Zee Bihar Jharkhand",
+        "id": "0-9-zeebiharjharkhand"
+    },
+    {
+        "name": "Zee Bollywood",
+        "id": "0-9-zeeclassic"
+    },
+    {
+        "name": "Zee Business",
+        "id": "0-9-zeebusiness"
+    },
+    {
+        "name": "Zee Café HD",
+        "id": "0-9-zeecafehd"
+    },
+    {
+        "name": "Zee Cinema",
+        "id": "0-9-zeecinema"
+    },
+    {
+        "name": "Zee Cinema HD",
+        "id": "0-9-zeecinemahd"
+    },
+    {
+        "name": "Zee Cinemalu HD",
+        "id": "0-9-zeecinemalu"
+    },
+    {
+        "name": "Zee Classic",
+        "id": "0-9-176"
+    },
+    {
+        "name": "Zee Delhi NCR Haryana",
+        "id": "0-9-zeekalinganews"
+    },
+    {
+        "name": "Zee Kannada",
+        "id": "0-9-9z5383466"
+    },
+    {
+        "name": "Zee Kannada HD",
+        "id": "0-9-zeekannada"
+    },
+    {
+        "name": "Zee Keralam HD",
+        "id": "0-9-129"
+    },
+    {
+        "name": "Zee Madhya Pradesh Chhattisgarh",
+        "id": "0-9-zeemadhyapradeshchat"
+    },
+    {
+        "name": "Zee Marathi",
+        "id": "0-9-9z5383486"
+    },
+    {
+        "name": "Zee Marathi HD",
+        "id": "0-9-zeemarathi"
+    },
+    {
+        "name": "Zee News",
+        "id": "0-9-zeenews"
+    },
+    {
+        "name": "Zee News Kannada",
+        "id": "0-9-9z583537"
+    },
+    {
+        "name": "Zee News Telugu",
+        "id": "0-9-9z583538"
+    },
+    {
+        "name": "Zee News Uttar Pradesh Uttrakhand",
+        "id": "0-9-channel_265145625"
+    },
+    {
+        "name": "Zee Power HD",
+        "id": "0-9-241"
+    },
+    {
+        "name": "Zee Punjab Haryana Himachal Pradesh",
+        "id": "0-9-zeepunjabharyanahima"
+    },
+    {
+        "name": "Zee Punjabi",
+        "id": "0-9-215"
+    },
+    {
+        "name": "Zee Rajasthan News",
+        "id": "0-9-zeerajasthannews"
+    },
+    {
+        "name": "Zee Sarthak",
+        "id": "0-9-sarthaktv"
+    },
+    {
+        "name": "Zee TV",
+        "id": "0-9-zeetv"
+    },
+    {
+        "name": "Zee TV HD",
+        "id": "0-9-zeetvhd"
+    },
+    {
+        "name": "Zee Talkies HD",
+        "id": "0-9-zeetalkies"
+    },
+    {
+        "name": "Zee Tamil",
+        "id": "0-9-9z5383487"
+    },
+    {
+        "name": "Zee Tamil HD",
+        "id": "0-9-zeetamil"
+    },
+    {
+        "name": "Zee Telugu",
+        "id": "0-9-9z5383485"
+    },
+    {
+        "name": "Zee Telugu HD",
+        "id": "0-9-zeetelugu"
+    },
+    {
+        "name": "Zee Thirai HD",
+        "id": "0-9-224"
+    },
+    {
+        "name": "Zee Yuva",
+        "id": "0-9-zeeyuva"
+    },
+    {
+        "name": "Zee Zest HD",
+        "id": "0-9-348"
+    },
+    {
+        "name": "Zing",
+        "id": "0-9-zing"
+    }
+]
