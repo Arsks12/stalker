@@ -118,7 +118,7 @@
     "469": {
         "channelID": 469,
         "channel_name": "Star Pravah HD"
-    },    
+    },
     "554": {
         "channelID": 554,
         "channel_name": "Sony Pal"
@@ -710,7 +710,7 @@
     "345": {
         "channelID": 345,
         "channel_name": "Hungama"
-    },    
+    },
     "114": {
         "channelID": 114,
         "channel_name": "Disney"
@@ -745,7 +745,7 @@
     },
     "1787": {
         "channelID": 1787,
-        "channel_name": "Tata Play Cartoon Network Forever"  
+        "channel_name": "Tata Play Cartoon Network Forever"
     },
     "239": {
         "channelID": 239,
@@ -2653,7 +2653,7 @@
     },
     "1006": {
         "channelID": 1006,
-        "channel_name": "Shri Mahalaxmi Temple,Â Mumbai"
+        "channel_name": "Shri Mahalaxmi Temple,\u00c2 Mumbai"
     },
     "1005": {
         "channelID": 1005,
@@ -2874,5 +2874,21 @@
     "664": {
         "channelID": 664,
         "channel_name": "Star Sports 3"
+    },
+    "506": {
+        "channelID": 506,
+        "channel_name": "Unite8 Sports 2 HD"
+    },
+    "592": {
+        "channelID": 592,
+        "channel_name": "Unite8 Sports 2"
+    },
+    "502": {
+        "channelID": 502,
+        "channel_name": "Unite8 Sports 1 HD"
+    },
+    "602": {
+        "channelID": 602,
+        "channel_name": "Unite8 Sports 1"
     }
 }
