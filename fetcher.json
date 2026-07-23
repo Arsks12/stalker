@@ -4396,20 +4396,20 @@
         "name": "Tata Play Cartoon Network Forever",
         "primaryGenre": "Kids",
         "genres": [
-            "Cartoons",
-            "Kids"
+          "Cartoons",
+          "Kids"
         ],
         "languages": [
-            "English",
-            "Hindi"
+          "English",
+          "Hindi"
         ],
         "logo_url": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/TataPlayCartoonNetworkForever_Thumbnail_edf800a9-9bbb-4e12-8b63-09970f96d63c.png",
         "manifest_url": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_2298/output/Manifest.mpd",
         "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001722",
         "manifest_headers": {
-            "Origin": "https://watch.tataplay.com",
-            "Referer": "https://watch.tataplay.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"
+          "Origin": "https://watch.tataplay.com",
+          "Referer": "https://watch.tataplay.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"
         },
         "manifest_type": "DASH",
         "is_catchup_available": true,
@@ -17116,6 +17116,100 @@
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png",
         "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_897/output/Manifest.mpd",
         "license_url": null,
+        "manifest_headers": {
+          "Origin": "https://watch.tataplay.com",
+          "Referer": "https://watch.tataplay.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.1 Safari/537.36"
+        },
+        "manifest_type": "DASH",
+        "is_catchup_available": true,
+        "is_drm_protected": true,
+        "is_hmac_required": true
+      },
+      {
+        "id": "506",
+        "name": "Unite8 Sports 2 HD",
+        "primaryGenre": "Sports",
+        "genres": [
+          "Sports",
+          "HD"
+        ],
+        "languages": [
+          "English"
+        ],
+        "logo_url": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports2HD_Thumbnail_08f72428-ae8e-429f-92a6-8393b90ab116.png",
+        "manifest_url": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_2222/output/Manifest.mpd",
+        "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001555",
+        "manifest_headers": {
+          "Origin": "https://watch.tataplay.com",
+          "Referer": "https://watch.tataplay.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.1 Safari/537.36"
+        },
+        "manifest_type": "DASH",
+        "is_catchup_available": true,
+        "is_drm_protected": true,
+        "is_hmac_required": true
+      },
+      {
+        "id": "592",
+        "name": "Unite8 Sports 2",
+        "primaryGenre": "Sports",
+        "genres": [
+          "Sports"
+        ],
+        "languages": [
+          "English"
+        ],
+        "logo_url": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports2_Thumbnail_80a6ba50-49c6-498a-85d0-2ab71e48bed0.png",
+        "manifest_url": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_2222/output/Manifest.mpd",
+        "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001555",
+        "manifest_headers": {
+          "Origin": "https://watch.tataplay.com",
+          "Referer": "https://watch.tataplay.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.1 Safari/537.36"
+        },
+        "manifest_type": "DASH",
+        "is_catchup_available": true,
+        "is_drm_protected": true,
+        "is_hmac_required": true
+      },
+      {
+        "id": "502",
+        "name": "Unite8 Sports 1 HD",
+        "primaryGenre": "Sports",
+        "genres": [
+          "Sports",
+          "HD"
+        ],
+        "languages": [
+          "Hindi"
+        ],
+        "logo_url": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports1HD_Thumbnail_eba6519a-bf0a-4073-ab79-72441c22c9a0.png",
+        "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2221/output/Manifest.mpd",
+        "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001554",
+        "manifest_headers": {
+          "Origin": "https://watch.tataplay.com",
+          "Referer": "https://watch.tataplay.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.1 Safari/537.36"
+        },
+        "manifest_type": "DASH",
+        "is_catchup_available": true,
+        "is_drm_protected": true,
+        "is_hmac_required": true
+      },
+      {
+        "id": "602",
+        "name": "Unite8 Sports 1",
+        "primaryGenre": "Sports",
+        "genres": [
+          "Sports"
+        ],
+        "languages": [
+          "Hindi"
+        ],
+        "logo_url": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports1_Thumbnail_900182ea-5a7f-49ea-9190-b41d11671874.png",
+        "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2221/output/Manifest.mpd",
+        "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001554",
         "manifest_headers": {
           "Origin": "https://watch.tataplay.com",
           "Referer": "https://watch.tataplay.com/",
