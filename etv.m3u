@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://dxkcfokobeg0u.cloudfront.net/v1/images/banner/videos/20260219/M9mt3n2ymG.jpg",ETV Telugu
+https://d1rznlx03muoan.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-logo="https://dxkcfokobeg0u.cloudfront.net/v1/images/banner/videos/20260223/MFdVorQK92.jpg",ETV Plus
+https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-logo="https://dxkcfokobeg0u.cloudfront.net/v1/images/banner/videos/20260223/MFdbBrAgrY.jpg",ETV Cinema
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-logo="https://dxkcfokobeg0u.cloudfront.net/v1/images/banner/videos/20260223/MFddlQ0aA4.jpg",ETV Abhiruchi
+https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
+#EXTINF:-1 tvg-logo="https://dxkcfokobeg0u.cloudfront.net/v1/images/banner/videos/20260223/MFdhEfuknQ.jpg",ETV LIFE Spiritual
+https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-logo="https://dxkcfokobeg0u.cloudfront.net/v1/images/banner/videos/20260223/MFdjvPpg36.jpg",ETV Andhra Pradesh
+https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-logo="https://dxkcfokobeg0u.cloudfront.net/v1/images/banner/videos/20260223/MFdn9JypY8.jpg",ETV Telangana
+https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
