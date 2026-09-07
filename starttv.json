@@ -524,5 +524,53 @@
     "license_key": "b0a76fc24ad548c5b92fb4eebfe90000:f7c8dc574a6e4937ab2c15e8ae2acedb",
     "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg",
     "group": "Kids"
+  },
+  {
+    "TransactionID": "URVJSP0609261590078368",
+    "ChannelID": null,
+    "ChannelName": "Disney Channel Digital",
+    "ExpiryDate": "2026-10-05T23:59:59",
+    "ActualChannelID": "1540075053",
+    "ContentPartnerName": "jiohotstar",
+    "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index.mpd",
+    "license_key": "e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg",
+    "group": "Kids"
+  },
+  {
+    "TransactionID": "URVJSP0609261590078368",
+    "ChannelID": null,
+    "ChannelName": "Disney Channel International Digital",
+    "ExpiryDate": "2026-10-05T23:59:59",
+    "ActualChannelID": "1540075056",
+    "ContentPartnerName": "jiohotstar",
+    "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540075056/a8fa5937ab1c4958870402ef81014cbe/index.mpd",
+    "license_key": "e012c85b4106415791a17a9b192b0000:c847c31f531b4f97a08b7e3b87f71fa6",
+    "logo": "https://plain-apac-prod-public.komododecks.com/202609/07/FAoDDiaq0WPescE65173/image.png",
+    "group": "Kids"
+  },
+  {
+    "TransactionID": "URVJSP0609261590078368",
+    "ChannelID": null,
+    "ChannelName": "Disney Junior Digital",
+    "ExpiryDate": "2026-10-05T23:59:59",
+    "ActualChannelID": "1540075059",
+    "ContentPartnerName": "jiohotstar",
+    "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540075059/9fcb1f02cf7249ef8428b9f3c981e08c/index.mpd",
+    "license_key": "086abce59cd24b69b39b1f5b699e0000:96cbdf1109e0429780a7fa721f87e4ca",
+    "logo": "https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png",
+    "group": "Kids"
+  },
+  {
+    "TransactionID": "URVJSP0609261590078368",
+    "ChannelID": null,
+    "ChannelName": "Super Hungama Digital",
+    "ExpiryDate": "2026-10-05T23:59:59",
+    "ActualChannelID": "1540075047",
+    "ContentPartnerName": "jiohotstar",
+    "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540075047/feca5fc6c1234205b01efe48d12d4c7f/index.mpd",
+    "license_key": "151c6d430ec946a88dd41b7dcafb0000:29437c1b7f1d4289a6d4c1fc25d35891",
+    "logo": "https://plain-apac-prod-public.komododecks.com/202609/07/lNjbGo0Rcgz3vhfoyTN7/image.png",
+    "group": "Kids"
   }
 ]
