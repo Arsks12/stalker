@@ -1,0 +1,112 @@
+[
+  {
+    "id": "2011671",
+    "channel_name": "Sony SET HD",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8"
+  },
+  {
+    "id": "2011749",
+    "channel_name": "Sony SAB HD",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8"
+  },
+  {
+    "id": "2011741",
+    "channel_name": "Sony Pal",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8"
+  },
+  {
+    "id": "2011746",
+    "channel_name": "Sony Yay",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8"
+  },
+  {
+    "id": "2011740",
+    "channel_name": "Sony Marathi",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8"
+  },
+  {
+    "id": "2011641",
+    "channel_name": "Sony Aath",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8"
+  },
+  {
+    "id": "2011670",
+    "channel_name": "Sony MAX HD",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8"
+  },
+  {
+    "id": "2011745",
+    "channel_name": "Sony MAX",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8"
+  },
+  {
+    "id": "2011908",
+    "channel_name": "Sony MAX 2",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8"
+  },
+  {
+    "id": "2011906",
+    "channel_name": "Sony WAH",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8"
+  },
+  {
+    "id": "2011748",
+    "channel_name": "Sony PIX HD",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8"
+  },
+  {
+    "id": "2011907",
+    "channel_name": "Sony BBC Earth HD",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8"
+  },
+  {
+    "id": "2011739",
+    "channel_name": "Sony Sports Ten 1",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8"
+  },
+  {
+    "id": "2020590",
+    "channel_name": "Sony Sports Ten 2",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8"
+  },
+  {
+    "id": "2020592",
+    "channel_name": "Sony Sports Ten 3",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8"
+  },
+  {
+    "id": "2020437",
+    "channel_name": "Sony Sports Ten 4",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8"
+  },
+  {
+    "id": "2020594",
+    "channel_name": "Sony Sports Ten 5",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8"
+  },
+  {
+    "id": "2011747",
+    "channel_name": "Sony Sports Ten 1 HD",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8"
+  },
+  {
+    "id": "2020434",
+    "channel_name": "Sony Sports Ten 2 HD",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8"
+  },
+  {
+    "id": "2020591",
+    "channel_name": "Sony Sports Ten 3 HD",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8"
+  },
+  {
+    "id": "2020589",
+    "channel_name": "Sony Sports Ten 4 HD",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8"
+  },
+  {
+    "id": "2020593",
+    "channel_name": "Sony Sports Ten 5 HD",
+    "m3u8": "https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8"
+  }
+]
