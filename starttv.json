@@ -1,7 +1,7 @@
 [
     {
         "ChannelID": 1540068720,
-        "ChannelName": "Colors Super",
+        "ChannelName": "Colors Super Digital",
         "ActualChannelID": "1540068720",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540068720/b22b29885f2f408eb20ab6e2c04615b0/index.mpd",
@@ -31,23 +31,25 @@
     },
     {
         "ChannelID": 1540068775,
-        "ChannelName": "Colors Gujarati",
+        "ChannelName": "Colors Gujarati Digital",
         "ActualChannelID": "1540068775",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068775/2930525295884240a39922ad485eb1a8/index.mpd",
-        "license_key": "c8fe8210a80540dc879b3c81bdb20000:f55bb75137064cb09b79d88cd055bcf3"
+        "license_key": "c8fe8210a80540dc879b3c81bdb20000:f55bb75137064cb09b79d88cd055bcf3",
+        "group": "Entertainment"
     },
     {
         "ChannelID": 1540068778,
-        "ChannelName": "Colors Gujarati Cinema",
+        "ChannelName": "Colors Gujarati Cinema Digital",
         "ActualChannelID": "1540068778",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540068778/894041da6b2144bfab552b7ee94271a5/index.mpd",
-        "license_key": "f70a88d4314b4c89a62d3650c0190000:eae7f4dba9d4455b8eb3578bf9e3c784"
+        "license_key": "f70a88d4314b4c89a62d3650c0190000:eae7f4dba9d4455b8eb3578bf9e3c784",
+        "group": "Movies"
     },
     {
         "ChannelID": 1540068791,
-        "ChannelName": "Nickelodeon Sonic",
+        "ChannelName": "Sonic Digital",
         "ActualChannelID": "1540068791",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068791/78782613f6f54c38bf5961e9f066328a/index.mpd",
@@ -57,7 +59,7 @@
     },
     {
         "ChannelID": 1540068702,
-        "ChannelName": "Colors Rishtey",
+        "ChannelName": "Colors Rishtey Digital",
         "ActualChannelID": "1540068702",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068702/807fee4649e74970af364da5030ce386/index.mpd",
@@ -67,7 +69,7 @@
     },
     {
         "ChannelID": 1540068286,
-        "ChannelName": "Maa Movies HD",
+        "ChannelName": "Maa Movies Digital",
         "ActualChannelID": "1540068286",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068286/7f555c63f0854f7b8737681943681333/index.mpd",
@@ -77,7 +79,7 @@
     },
     {
         "ChannelID": 1540068259,
-        "ChannelName": "Asianet HD",
+        "ChannelName": "Asianet Digital",
         "ActualChannelID": "1540068259",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068259/16bbee01f356442bb4ec4d6b021c20e2/index.mpd",
@@ -87,7 +89,7 @@
     },
     {
         "ChannelID": 1540068319,
-        "ChannelName": "Star Suvarna HD",
+        "ChannelName": "Star Suvarna Digital",
         "ActualChannelID": "1540068319",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540068319/ae448c47ad3e4f2c9059f6fcfe4fbdc9/index.mpd",
@@ -107,7 +109,7 @@
     },
     {
         "ChannelID": 1540068289,
-        "ChannelName": "Star Plus HD",
+        "ChannelName": "Star Plus Digital",
         "ActualChannelID": "1540068289",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068289/6479fde4af2c441087fba8aa8a6b7b65/index.mpd",
@@ -117,7 +119,7 @@
     },
     {
         "ChannelID": 1540068696,
-        "ChannelName": "Star Bharat HD",
+        "ChannelName": "Star Bharat Digital",
         "ActualChannelID": "1540068696",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540068696/fbf749b57ef444e8b2af5fbed29c350b/index.mpd",
@@ -127,7 +129,7 @@
     },
     {
         "ChannelID": 1540068265,
-        "ChannelName": "Star Jalsha HD",
+        "ChannelName": "Star Jalsha Digital",
         "ActualChannelID": "1540068265",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540068265/c4602383aada4e3fb92f0f0740187c66/index.mpd",
@@ -137,7 +139,7 @@
     },
     {
         "ChannelID": 1540068310,
-        "ChannelName": "Star Pravah HD",
+        "ChannelName": "Star Pravah Digital",
         "ActualChannelID": "1540068310",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068310/f72c707651fa4b55a913511378ee7d09/index.mpd",
@@ -147,7 +149,7 @@
     },
     {
         "ChannelID": 1540068277,
-        "ChannelName": "Star Maa HD",
+        "ChannelName": "Star Maa Digital",
         "ActualChannelID": "1540068277",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068277/f9eb70f10233442f82a6e3c4e8b2df70/index.mpd",
@@ -157,7 +159,7 @@
     },
     {
         "ChannelID": 1540068331,
-        "ChannelName": "Star Vijay HD",
+        "ChannelName": "Star Vijay Digital",
         "ActualChannelID": "1540068331",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068331/e2defeea709d42799aee76fe0d59bbe8/index.mpd",
@@ -187,7 +189,7 @@
     },
     {
         "ChannelID": 1540068274,
-        "ChannelName": "Jalsha Movies",
+        "ChannelName": "Jalsha Movies Digital",
         "ActualChannelID": "1540068274",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540068274/3c19d12531e5431d9bc02d243fcdde3e/index.mpd",
@@ -197,7 +199,7 @@
     },
     {
         "ChannelID": 1540068693,
-        "ChannelName": "Star Utsav",
+        "ChannelName": "Star Utsav Digital",
         "ActualChannelID": "1540068693",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068693/b584e228e7d94a318177b28e7b03d432/index.mpd",
@@ -227,7 +229,7 @@
     },
     {
         "ChannelID": 1540068262,
-        "ChannelName": "Asianet Movies HD",
+        "ChannelName": "Asianet Movies Digital",
         "ActualChannelID": "1540068262",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540068262/e4a83726042d44a4bf478be1a852b2a8/index.mpd",
@@ -427,7 +429,7 @@
     },
     {
         "ChannelID": 1540075056,
-        "ChannelName": "Disney Channel International Digital",
+        "ChannelName": "Disney International Digital",
         "ActualChannelID": "1540075056",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540075056/a8fa5937ab1c4958870402ef81014cbe/index.mpd",
@@ -457,7 +459,7 @@
     },
     {
         "ChannelID": 1540057075,
-        "ChannelName": "Star Suvarna",
+        "ChannelName": "Star Suvarna Hd",
         "ActualChannelID": "1540057075",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540057075/57ae0b6fa2b64281984574d406f9a696/index.mpd",
@@ -477,7 +479,7 @@
     },
     {
         "ChannelID": 1540057063,
-        "ChannelName": "Star Pravah",
+        "ChannelName": "Star Pravah Hd",
         "ActualChannelID": "1540057063",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540057063/03a27d0f3ce347f0a3b4af1f6e62d4cc/index.mpd",
@@ -487,7 +489,7 @@
     },
     {
         "ChannelID": 1540057036,
-        "ChannelName": "Star Maa Movies",
+        "ChannelName": "Star Maa Movies Hd",
         "ActualChannelID": "1540057036",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540057036/9b002b1b2a3748b7a80a8512aef0bb8d/index.mpd",
@@ -497,7 +499,7 @@
     },
     {
         "ChannelID": 1540057084,
-        "ChannelName": "Asianet",
+        "ChannelName": "Asianet Hd",
         "ActualChannelID": "1540057084",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540057084/6569043a1d874fb49fc2cf2f273fe097/index.mpd",
@@ -507,7 +509,7 @@
     },
     {
         "ChannelID": 1540057072,
-        "ChannelName": "Star Jalsha",
+        "ChannelName": "Star Jalsha Hd",
         "ActualChannelID": "1540057072",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540057072/61b6b96b069d42f9821b6ed85b51388e/index.mpd",
@@ -517,7 +519,7 @@
     },
     {
         "ChannelID": 1540057087,
-        "ChannelName": "Star Maa",
+        "ChannelName": "Star Maa Hd",
         "ActualChannelID": "1540057087",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540057087/136d113eec07474e8836d7dc3dd0533b/index.mpd",
@@ -527,7 +529,7 @@
     },
     {
         "ChannelID": 1540057060,
-        "ChannelName": "Star Vijay",
+        "ChannelName": "Star Vijay Hd",
         "ActualChannelID": "1540057060",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540057060/15ef978ea9f449a2a8c97f7c05e618c5/index.mpd",
@@ -547,7 +549,7 @@
     },
     {
         "ChannelID": 1540065794,
-        "ChannelName": "Star Sports Select HD2",
+        "ChannelName": "STAR Sports Select 2 HD",
         "ActualChannelID": "1540065794",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540065794/e2408fbafb9d4a5ab23775b69e5737d7/index.mpd",
@@ -567,7 +569,7 @@
     },
     {
         "ChannelID": 1540057051,
-        "ChannelName": "Star Bharat",
+        "ChannelName": "Star Bharat Hd",
         "ActualChannelID": "1540057051",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a42da/index.mpd",
@@ -587,7 +589,7 @@
     },
     {
         "ChannelID": 1540065791,
-        "ChannelName": "Star Sports Select HD1",
+        "ChannelName": "STAR Sports Select 1 HD",
         "ActualChannelID": "1540065791",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d9352/index.mpd",
@@ -607,7 +609,7 @@
     },
     {
         "ChannelID": 1540057027,
-        "ChannelName": "Star Jalsha Movies",
+        "ChannelName": "Jalsha Movies Hd",
         "ActualChannelID": "1540057027",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540057027/39127b380adb405e8de434e10e20c3a6/index.mpd",
@@ -617,7 +619,7 @@
     },
     {
         "ChannelID": 1540057030,
-        "ChannelName": "Star Gold",
+        "ChannelName": "Star Gold Hd",
         "ActualChannelID": "1540057030",
         "ContentPartnerName": "jiohotstar",
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd",
@@ -683,6 +685,46 @@
         "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540075050/4249b1f5294741fe9b93bb703122f7b3/index.mpd",
         "license_key": "0f4f997a5f3846ec96fcceace11f0000:2a797cb86086466ebdb11f0fa9e7d701",
         "logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5075/1785250005075-h",
+        "group": "Infotainment"
+    },
+    {
+        "ChannelID": 1540057078,
+        "ChannelName": "Star Utsav",
+        "ActualChannelID": "1540057078",
+        "ContentPartnerName": "jiohotstar",
+        "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540057078/6a9d9dbd5cd84dd3ba89856288c589b3/index.mpd",
+        "license_key": "88f55cce9ba94df6b009f2433ef90000:6f33ae9e6fa24f95b82e538563b1cbaf",
+        "logo": "",
+        "group": "Entertainment"
+    },
+    {
+        "ChannelID": 1540075041,
+        "ChannelName": "MTV Digital",
+        "ActualChannelID": "1540075041",
+        "ContentPartnerName": "jiohotstar",
+        "mpd": "https://livetv.hotstar.com/mp1/gec-india-1540075041/3a3fc861054b441a9e52e12627c7a2dd/index.mpd",
+        "license_key": "8b5ceacdaff6457b961887cda56b0000:afde944e9cb24f29addedcd192c915e7",
+        "logo": "",
+        "group": "Entertainment"
+    },
+    {
+        "ChannelID": 1540075115,
+        "ChannelName": "Nick Jr Digital",
+        "ActualChannelID": "1540075115",
+        "ContentPartnerName": "jiohotstar",
+        "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540075115/747057b54263441d9917f4cb541e176f/index.mpd",
+        "license_key": "de1ae6ef6e004ab3a84ac42abc120000:05fcdc92492f47ecad269048d0ab42fc",
+        "logo": "",
+        "group": "Kids"
+    },
+    {
+        "ChannelID": 1540075730,
+        "ChannelName": "National Geographic Digital",
+        "ActualChannelID": "1540075730",
+        "ContentPartnerName": "jiohotstar",
+        "mpd": "https://livetv.hotstar.com/mp2/gec-india-1540075730/d4acfd4b06c24abe9dfad81671da1582/index.mpd",
+        "license_key": "63f7479a58ff4a11b914c73ee8ed0000:1f605aa9695f4b8b8fee9172c0fc6f2d",
+        "logo": "",
         "group": "Infotainment"
     }
 ]
