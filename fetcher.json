@@ -3,7 +3,6 @@
     "author": "XtRoN",
     "data": {
         "total_channels": 583,
-        "last_update": "2026-10-05T14:33:45.203747+00:00",
         "channels": [
             {
                 "id": "1",
@@ -384,16 +383,17 @@
             {
                 "id": "28",
                 "name": "Alankar",
-                "primaryGenre": "General",
+                "primaryGenre": "Movies",
                 "genres": [
-                    "Entertainment"
+                    "Movies",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Odia"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_381/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000027",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -670,16 +670,17 @@
             {
                 "id": "50",
                 "name": "Tarang Music",
-                "primaryGenre": "General",
+                "primaryGenre": "Music",
                 "genres": [
-                    "Entertainment"
+                    "Music",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Odia"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_338/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000049",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -1003,16 +1004,17 @@
             {
                 "id": "76",
                 "name": "Sun Udaya",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Kannada"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_315/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000079",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -1049,16 +1051,17 @@
             {
                 "id": "82",
                 "name": "Kochu TV",
-                "primaryGenre": "General",
+                "primaryGenre": "Kids",
                 "genres": [
-                    "Entertainment"
+                    "Kids",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Malayalam"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_324/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000081",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -2692,16 +2695,17 @@
             {
                 "id": "195",
                 "name": "Sun Gemini",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Telugu"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_293/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000209",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -3500,16 +3504,17 @@
             {
                 "id": "237",
                 "name": "Tarang TV",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Odia"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_336/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000251",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -3698,16 +3703,17 @@
             {
                 "id": "253",
                 "name": "Zee Bangla",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Bengali"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_417/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000267",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -4102,16 +4108,17 @@
             {
                 "id": "284",
                 "name": "Adithya TV",
-                "primaryGenre": "General",
+                "primaryGenre": "Movies",
                 "genres": [
-                    "Entertainment"
+                    "Movies",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Tamil"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_451/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000296",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -4367,16 +4374,17 @@
             {
                 "id": "302",
                 "name": "Chutti TV",
-                "primaryGenre": "General",
+                "primaryGenre": "Kids",
                 "genres": [
-                    "Entertainment"
+                    "Kids",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Tamil"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_484/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000316",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -4722,16 +4730,17 @@
             {
                 "id": "328",
                 "name": "DD Malayalam",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Malayalam"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_512/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000345",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -4745,16 +4754,17 @@
             {
                 "id": "329",
                 "name": "DD Manipur",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Assamese"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_513/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000346",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -5059,16 +5069,16 @@
             {
                 "id": "346",
                 "name": "Shree Disha Bhakti",
-                "primaryGenre": "General",
+                "primaryGenre": "Spiritual",
                 "genres": [
-                    "Entertainment"
+                    "Spiritual"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_531/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000362",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -5302,16 +5312,17 @@
             {
                 "id": "360",
                 "name": "Sun Gemini Comedy",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Telugu"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_548/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000372",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -5684,16 +5695,17 @@
             {
                 "id": "382",
                 "name": "Zee Zest HD",
-                "primaryGenre": "General",
+                "primaryGenre": "Knowledge & Lifestyle",
                 "genres": [
-                    "Entertainment"
+                    "Knowledge & Lifestyle",
+                    "HD"
                 ],
                 "languages": [
-                    "Hindi"
+                    "English"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_604/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000403",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -5707,16 +5719,17 @@
             {
                 "id": "383",
                 "name": "Kushi TV",
-                "primaryGenre": "General",
+                "primaryGenre": "Kids",
                 "genres": [
-                    "Entertainment"
+                    "Kids",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Telugu"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_601/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000404",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -5944,16 +5957,17 @@
             {
                 "id": "396",
                 "name": "Mega 24",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Tamil"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_623/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000416",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -6157,16 +6171,16 @@
             {
                 "id": "415",
                 "name": "News 11 Bharat",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_659/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000435",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -6228,16 +6242,17 @@
             {
                 "id": "419",
                 "name": "OTV",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Odia"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_668/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000443",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -6636,16 +6651,17 @@
             {
                 "id": "442",
                 "name": "Sun Udaya Music",
-                "primaryGenre": "General",
+                "primaryGenre": "Music",
                 "genres": [
-                    "Entertainment"
+                    "Music",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Kannada"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_804/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000470",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -6659,16 +6675,17 @@
             {
                 "id": "443",
                 "name": "Sun News",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Tamil"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_759/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000468",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -6827,16 +6844,16 @@
             {
                 "id": "450",
                 "name": "SVBC",
-                "primaryGenre": "General",
+                "primaryGenre": "Spiritual",
                 "genres": [
-                    "Entertainment"
+                    "Spiritual"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Telugu"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_770/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000469",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -6995,16 +7012,18 @@
             {
                 "id": "469",
                 "name": "Star Pravah HD",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional",
+                    "HD"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Marathi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000490",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -7090,16 +7109,18 @@
             {
                 "id": "479",
                 "name": "Sun Surya HD",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional",
+                    "HD"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Malayalam"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_763/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000506",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -7138,16 +7159,17 @@
             {
                 "id": "481",
                 "name": "Sun Surya Comedy",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Malayalam"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_762/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000505",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -7161,16 +7183,17 @@
             {
                 "id": "483",
                 "name": "Sun Surya Music",
-                "primaryGenre": "General",
+                "primaryGenre": "Music",
                 "genres": [
-                    "Entertainment"
+                    "Music",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Malayalam"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_764/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000507",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -7303,16 +7326,17 @@
             {
                 "id": "491",
                 "name": "Sun Udaya Comedy",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Kannada"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_805/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000516",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -7636,16 +7660,18 @@
             {
                 "id": "520",
                 "name": "Sun Music HD",
-                "primaryGenre": "General",
+                "primaryGenre": "Music",
                 "genres": [
-                    "Entertainment"
+                    "Music",
+                    "Regional",
+                    "HD"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Tamil"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_758/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000541",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -8110,16 +8136,17 @@
             {
                 "id": "561",
                 "name": "Chintu TV",
-                "primaryGenre": "General",
+                "primaryGenre": "Kids",
                 "genres": [
-                    "Entertainment"
+                    "Kids",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Kannada"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_483/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000591",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -8181,16 +8208,17 @@
             {
                 "id": "568",
                 "name": "Prarthana Life",
-                "primaryGenre": "General",
+                "primaryGenre": "Spiritual",
                 "genres": [
-                    "Entertainment"
+                    "Regional",
+                    "Spiritual"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Odia"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_677/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000598",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -8610,16 +8638,18 @@
             {
                 "id": "614",
                 "name": "Tata Play Bangla Cinema",
-                "primaryGenre": "General",
+                "primaryGenre": "Movies",
                 "genres": [
-                    "Entertainment"
+                    "Movies",
+                    "Regional",
+                    "Specials"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Bengali"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_790/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000639",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -9702,7 +9732,7 @@
                 "languages": "Hindi,Tamil,Kannada,Telugu",
                 "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TSARAD_Thumbnail-v6/TSARAD_Thumbnail.png",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1634/output/manifest.mpd",
-                "license_url": null,
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000798",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -9716,16 +9746,17 @@
             {
                 "id": "744",
                 "name": "Tata Play Comedy",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Specials"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1642/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000812",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -9739,16 +9770,17 @@
             {
                 "id": "758",
                 "name": "DD Arunprabha",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_962/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000834",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -10386,16 +10418,16 @@
             {
                 "id": "833",
                 "name": "DD Port Blair",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1128/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000964",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -11521,16 +11553,17 @@
             {
                 "id": "1026",
                 "name": "Sidharth UTSAV",
-                "primaryGenre": "General",
+                "primaryGenre": "Spiritual",
                 "genres": [
-                    "Entertainment"
+                    "Regional",
+                    "Spiritual"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Odia"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_1844/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001186",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -11544,16 +11577,17 @@
             {
                 "id": "1032",
                 "name": "Sansad TV 2 HD",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "HD"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1850/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001192",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -11613,16 +11647,17 @@
             {
                 "id": "1053",
                 "name": "Asian News",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1868/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001217",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -11827,16 +11862,16 @@
             {
                 "id": "1118",
                 "name": "News 360",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1920/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001279",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -11921,16 +11956,17 @@
             {
                 "id": "1135",
                 "name": "Vanitha",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Telugu"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1929/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001291",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12015,16 +12051,16 @@
             {
                 "id": "1164",
                 "name": "Unique TV",
-                "primaryGenre": "General",
+                "primaryGenre": "Kids",
                 "genres": [
-                    "Entertainment"
+                    "Kids"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1946/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001308",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12155,16 +12191,16 @@
             {
                 "id": "1184",
                 "name": "EPIC Bharat",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1964/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001330",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12178,16 +12214,16 @@
             {
                 "id": "1188",
                 "name": "DD Jharkhand",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1967/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001337",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12201,16 +12237,17 @@
             {
                 "id": "1191",
                 "name": "DD Sports HD",
-                "primaryGenre": "General",
+                "primaryGenre": "Sports",
                 "genres": [
-                    "Entertainment"
+                    "HD",
+                    "Sports"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1969/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001340",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12248,16 +12285,17 @@
             {
                 "id": "1210",
                 "name": "DD Tripura",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Bengali"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1983/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001360",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12271,16 +12309,17 @@
             {
                 "id": "1211",
                 "name": "DD Mizoram",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Others"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1984/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001357",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12294,16 +12333,16 @@
             {
                 "id": "1212",
                 "name": "DD Haryana",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1985/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001361",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12317,16 +12356,16 @@
             {
                 "id": "1213",
                 "name": "DD Uttarakhand",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1986/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001362",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12340,16 +12379,17 @@
             {
                 "id": "1214",
                 "name": "DD Nagaland",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Others"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1987/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001363",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12363,16 +12403,17 @@
             {
                 "id": "1215",
                 "name": "DD Goa",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1988/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001366",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12386,16 +12427,16 @@
             {
                 "id": "1216",
                 "name": "DD Chhattisgarh",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1989/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001364",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12409,16 +12450,16 @@
             {
                 "id": "1217",
                 "name": "DD Himachal",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1990/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001365",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12432,16 +12473,17 @@
             {
                 "id": "1218",
                 "name": "DD National HD",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "HD"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_1991/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001369",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12455,16 +12497,17 @@
             {
                 "id": "1219",
                 "name": "DD India HD",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "HD"
                 ],
                 "languages": [
-                    "Hindi"
+                    "English"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_1992/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001370",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12478,16 +12521,18 @@
             {
                 "id": "1221",
                 "name": "Sun Marathi HD",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional",
+                    "HD"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Marathi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_1993/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001371",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12501,16 +12546,18 @@
             {
                 "id": "1222",
                 "name": "Sun Bangla HD",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional",
+                    "HD"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Bengali"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_1994/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001372",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12548,16 +12595,18 @@
             {
                 "id": "1266",
                 "name": "Sun Gemini Music HD",
-                "primaryGenre": "General",
+                "primaryGenre": "Music",
                 "genres": [
-                    "Entertainment"
+                    "Music",
+                    "Regional",
+                    "HD"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Telugu"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_2049/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001413",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12733,16 +12782,16 @@
             {
                 "id": "1318",
                 "name": "Calvary TV",
-                "primaryGenre": "General",
+                "primaryGenre": "Spiritual",
                 "genres": [
-                    "Entertainment"
+                    "Spiritual"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2086/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001457",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12779,16 +12828,17 @@
             {
                 "id": "1324",
                 "name": "Raj Nagaichuvai",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Tamil"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2088/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001460",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12811,7 +12861,7 @@
                 ],
                 "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TNPNEW_Thumbnail-v1/TNPNEW_Thumbnail.png",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2098/output/manifest.mpd",
-                "license_url": null,
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001468",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12946,16 +12996,17 @@
             {
                 "id": "1367",
                 "name": "News Malayalam 24x7",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Malayalam"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2117/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001491",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12969,16 +13020,17 @@
             {
                 "id": "1368",
                 "name": "Sansad TV 1 HD",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "HD"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_2118/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001493",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -12992,16 +13044,17 @@
             {
                 "id": "1370",
                 "name": "Sun Neo HD",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "HD"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_2120/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001495",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13057,16 +13110,16 @@
             {
                 "id": "1395",
                 "name": "Live Times",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_2144/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001518",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13080,16 +13133,16 @@
             {
                 "id": "1400",
                 "name": "Sadhna Prime News",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_2145/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001519",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13103,16 +13156,17 @@
             {
                 "id": "1407",
                 "name": "India TV Speed News HD",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "HD"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_2177/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001556",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13126,16 +13180,17 @@
             {
                 "id": "1411",
                 "name": "News State Punjab Haryana Himachal",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Punjabi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2176/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001557",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13156,7 +13211,7 @@
                 "languages": "Marathi",
                 "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPMARCLS_Thumbnail-v1/TPMARCLS_Thumbnail.png",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2184/output/manifest.mpd",
-                "license_url": null,
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001576",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13177,7 +13232,7 @@
                 "languages": "Tamil",
                 "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPDeiveegam_Thumbnail-v1/TPDeiveegam_Thumbnail.png",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2214/output/manifest.mpd",
-                "license_url": null,
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001604",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13191,16 +13246,16 @@
             {
                 "id": "1464",
                 "name": "ABC Australia",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
-                    "Hindi"
+                    "English"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2222/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001613",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13214,16 +13269,17 @@
             {
                 "id": "1484",
                 "name": "Assam Talks",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Assamese"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2227/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001649",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13237,16 +13293,17 @@
             {
                 "id": "1488",
                 "name": "Guarantee News",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Kannada"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2250/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001672",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13283,16 +13340,17 @@
             {
                 "id": "1497",
                 "name": "Zee News HD",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "HD"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_2255/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001678",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13306,16 +13364,16 @@
             {
                 "id": "1499",
                 "name": "Goldmines Movies",
-                "primaryGenre": "General",
+                "primaryGenre": "Movies",
                 "genres": [
-                    "Entertainment"
+                    "Movies"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2256/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001679",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13329,16 +13387,17 @@
             {
                 "id": "1785",
                 "name": "Tata Play Bhakti Sangeet",
-                "primaryGenre": "General",
+                "primaryGenre": "Spiritual",
                 "genres": [
-                    "Entertainment"
+                    "Specials",
+                    "Spiritual"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_2296/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001720",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13352,16 +13411,17 @@
             {
                 "id": "1786",
                 "name": "Tata Play Fancode Sports +1",
-                "primaryGenre": "General",
+                "primaryGenre": "Sports",
                 "genres": [
-                    "Entertainment"
+                    "Specials",
+                    "Sports"
                 ],
                 "languages": [
-                    "Hindi"
+                    "English"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_2297/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001721",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13400,16 +13460,16 @@
             {
                 "id": "1799",
                 "name": "Public First",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_2306/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001731",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13423,16 +13483,17 @@
             {
                 "id": "1835",
                 "name": "Tata Play Odia Manoranjan",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows",
+                    "Specials"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Odia"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2325/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001750",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13446,16 +13507,17 @@
             {
                 "id": "1836",
                 "name": "GTC Punjabi",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Punjabi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2326/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001751",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13469,16 +13531,17 @@
             {
                 "id": "1850",
                 "name": "GTC News",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News",
+                    "Regional"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Punjabi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2327/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001752",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13492,16 +13555,16 @@
             {
                 "id": "1859",
                 "name": "Gangaur TV",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2330/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001755",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13515,16 +13578,16 @@
             {
                 "id": "1861",
                 "name": "Freedom TV",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Kannada"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2331/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001756",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13538,16 +13601,16 @@
             {
                 "id": "1872",
                 "name": "Bharat Update",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2343/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001769",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13561,16 +13624,16 @@
             {
                 "id": "1873",
                 "name": "India Superfast TV",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2332/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001757",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13584,16 +13647,16 @@
             {
                 "id": "1874",
                 "name": "News TV India",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_2344/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001770",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13607,16 +13670,16 @@
             {
                 "id": "1876",
                 "name": "TV13 Gujarati",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Gujarati"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2348/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001774",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13630,16 +13693,16 @@
             {
                 "id": "1877",
                 "name": "Samachar Plus 24x7",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_2347/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001773",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13653,16 +13716,16 @@
             {
                 "id": "1878",
                 "name": "Nation 27",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2354/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001780",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13676,16 +13739,16 @@
             {
                 "id": "1880",
                 "name": "Rozana Spokesman",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Punjabi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2355/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001781",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13708,7 +13771,7 @@
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_2358/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001784",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13722,16 +13785,16 @@
             {
                 "id": "1882",
                 "name": "Sri Jagannath Dham",
-                "primaryGenre": "General",
+                "primaryGenre": "Spiritual",
                 "genres": [
-                    "Entertainment"
+                    "Spiritual"
                 ],
                 "languages": [
-                    "Hindi"
+                    "Odia"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_2356/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001782",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13754,7 +13817,7 @@
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_2334/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001759",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13777,7 +13840,7 @@
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_2392/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001786",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13791,16 +13854,16 @@
             {
                 "id": "1887",
                 "name": "News Leader",
-                "primaryGenre": "General",
+                "primaryGenre": "News",
                 "genres": [
-                    "Entertainment"
+                    "News"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_2401/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001787",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13823,7 +13886,7 @@
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_2416/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001841",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13846,7 +13909,7 @@
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2380/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001785",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
@@ -13860,16 +13923,16 @@
             {
                 "id": "1942",
                 "name": "Tata Play Reality TV",
-                "primaryGenre": "General",
+                "primaryGenre": "TV Shows",
                 "genres": [
-                    "Entertainment"
+                    "TV Shows"
                 ],
                 "languages": [
                     "Hindi"
                 ],
                 "logo_url": "",
                 "manifest_url": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_2422/output/manifest.mpd",
-                "license_url": "",
+                "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=500001847",
                 "manifest_headers": {
                     "Origin": "https://watch.tataplay.com",
                     "Referer": "https://watch.tataplay.com/",
