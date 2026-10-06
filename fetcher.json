@@ -1236,7 +1236,7 @@
                 "manifest_type": "DASH",
                 "is_catchup_available": true,
                 "is_drm_protected": true,
-                "is_hmac_required": false
+                "is_hmac_required": true
             },
             {
                 "id": "93",
@@ -4322,7 +4322,7 @@
                 "manifest_type": "DASH",
                 "is_catchup_available": true,
                 "is_drm_protected": true,
-                "is_hmac_required": false
+                "is_hmac_required": true
             },
             {
                 "id": "294",
@@ -10506,7 +10506,7 @@
                 "manifest_type": "DASH",
                 "is_catchup_available": true,
                 "is_drm_protected": true,
-                "is_hmac_required": false
+                "is_hmac_required": true
             },
             {
                 "id": "867",
@@ -12870,7 +12870,7 @@
                 "manifest_type": "DASH",
                 "is_catchup_available": true,
                 "is_drm_protected": false,
-                "is_hmac_required": false
+                "is_hmac_required": true
             },
             {
                 "id": "1340",
