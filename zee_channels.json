@@ -1,0 +1,212 @@
+[
+  {
+    "name": "&Tv HD",
+    "id": 9487113,
+    "externalId": "HE_E_10086",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd"
+  },
+  {
+    "name": "ZEE TV HD",
+    "id": 9487083,
+    "externalId": "HE_E_10080",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd"
+  },
+  {
+    "name": "Zee Anmol",
+    "id": 9487051,
+    "externalId": "HE_E_10056",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol/dash/Zee_Anmol.mpd"
+  },
+  {
+    "name": "&Pictures HD",
+    "id": 9487112,
+    "externalId": "HE_E_10100",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd"
+  },
+  {
+    "name": "Zee Bollywood",
+    "id": 9487104,
+    "externalId": "HE_E_10012",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd"
+  },
+  {
+    "name": "Zee Action",
+    "id": 9487052,
+    "externalId": "HE_E_10027",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd"
+  },
+  {
+    "name": "Zee Classic",
+    "id": 9624882,
+    "externalId": "HE_E_10023",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd"
+  },
+  {
+    "name": "Zee Cinema HD",
+    "id": 9487096,
+    "externalId": "HE_E_10081",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd"
+  },
+  {
+    "name": "Anmol Cinema 2",
+    "id": 9624885,
+    "externalId": "HE_E_10043",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinema_2.mpd"
+  },
+  {
+    "name": "Zee Anmol Cinema",
+    "id": 9487057,
+    "externalId": "HE_E_10041",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol_Cinema/dash/Zee_Anmol_Cinema.mpd"
+  },
+  {
+    "name": "Big Magic",
+    "id": 9624883,
+    "externalId": "HE_E_10013",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd"
+  },
+  {
+    "name": "Zing",
+    "id": 9487091,
+    "externalId": "HE_E_10039",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zing/dash/Zing.mpd"
+  },
+  {
+    "name": "Unite8 Sports 1 HD",
+    "id": 9624886,
+    "externalId": "HE_E_10079",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd"
+  },
+  {
+    "name": "Unite8 Sports 2 HD",
+    "id": 9624884,
+    "externalId": "HE_E_10078",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd"
+  },
+  {
+    "name": "ET Now",
+    "id": 9487081,
+    "externalId": "HE_E_10058",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/ET_Now/dash/ET_Now.mpd"
+  },
+  {
+    "name": "Wion",
+    "id": 9487082,
+    "externalId": "HE_E_10025",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Wion/dash/Wion.mpd"
+  },
+  {
+    "name": "Times Now",
+    "id": 9487067,
+    "externalId": "HE_E_10087",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Times_Now/dash/Times_Now.mpd"
+  },
+  {
+    "name": "Zee Zest",
+    "id": 9650645,
+    "externalId": "HE_E_10062",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd"
+  },
+  {
+    "name": "ZEE PUNJABI",
+    "id": 9624890,
+    "externalId": "HE_E_10020",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_PUNJABI/dash/ZEE_PUNJABI.mpd"
+  },
+  {
+    "name": "Zee Marathi HD",
+    "id": 9504795,
+    "externalId": "HE_E_10096",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Marathi_HD/dash/Zee_Marathi_HD.mpd"
+  },
+  {
+    "name": "Zee Yuva",
+    "id": 9624888,
+    "externalId": "HE_E_10006",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_YUVA/dash/ZEE_YUVA.mpd"
+  },
+  {
+    "name": "Zee Talkies HD",
+    "id": 9487089,
+    "externalId": "HE_E_10098",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Talkies_HD/dash/Zee_Talkies_HD.mpd"
+  },
+  {
+    "name": "Zee Sarthak",
+    "id": 9487093,
+    "externalId": "HE_E_10048",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Sarthak/dash/Zee_Sarthak.mpd"
+  },
+  {
+    "name": "Zee Bangla HD",
+    "id": 9504796,
+    "externalId": "HE_E_10093",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd"
+  },
+  {
+    "name": "Zee Bangla Sonar",
+    "id": 9624894,
+    "externalId": "HE_E_10021",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_Bangla_Sonar/dash/ZEE_Bangla_Sonar.mpd"
+  },
+  {
+    "name": "Zee 24 GHANTA",
+    "id": 9487065,
+    "externalId": "HE_E_10047",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_24_Ghanta/dash/Zee_24_Ghanta.mpd"
+  },
+  {
+    "name": "Zee Biskope",
+    "id": 9624887,
+    "externalId": "HE_E_10022",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Biskope/dash/Zee_Biskope.mpd"
+  },
+  {
+    "name": "Zee Telugu HD",
+    "id": 9624891,
+    "externalId": "HE_E_10077",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Telugu_HD/dash/Zee_Telugu_HD.mpd"
+  },
+  {
+    "name": "Zoom",
+    "id": 9487084,
+    "externalId": "HE_E_10095",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd"
+  },
+  {
+    "name": "Zee Cinemalu HD",
+    "id": 9624889,
+    "externalId": "HE_E_10097",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinemalu_HD/dash/Zee_Cinemalu_HD.mpd"
+  },
+  {
+    "name": "Zee Kannada HD",
+    "id": 9624893,
+    "externalId": "HE_E_10091",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Kannada_HD/dash/Zee_Kannada_HD.mpd"
+  },
+  {
+    "name": "Zee Power",
+    "id": 9649339,
+    "externalId": "HE_E_10064",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Power_SD/dash/Zee_Power_SD.mpd"
+  },
+  {
+    "name": "Zee Tamil HD",
+    "id": 9624892,
+    "externalId": "HE_E_10085",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/dash/Zee_Tamil_HD.mpd"
+  },
+  {
+    "name": "Zee Thirai",
+    "id": 9649000,
+    "externalId": "HE_E_10009",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Thirai_SD/dash/Zee_Thirai_SD.mpd"
+  },
+  {
+    "name": "Zee Keralam HD",
+    "id": 9624895,
+    "externalId": "HE_E_10092",
+    "mpd": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd"
+  }
+]
